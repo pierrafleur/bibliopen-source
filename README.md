@@ -29,6 +29,7 @@
 | EN   | RSS feed     | Security | Enterprise | Bugcrowd                   | https://www.bugcrowd.com/feed/                                                                      | 
 | EN   | RSS feed     | Security | Enterprise | Check Point                | https://research.checkpoint.com/feed                                                                | 
 | EN   | RSS feed     | Security | Enterprise | Cisco Talos                | https://blog.talosintelligence.com/feeds/posts/default                                              | 
+| EN   | RSS feed     | Security | Enterprise | CompTIA                    | https://www.comptia.org/rssfeeds/comptia-blog                                                       | 
 | EN   | RSS feed     | Security | Enterprise | Crowdstrike                | https://www.crowdstrike.com/blog/feed                                                               | 
 | EN   | RSS feed     | Security | Enterprise | Cybereason                 | https://www.cybereason.com/blog/rss.xml                                                             | 
 | EN   | RSS feed     | Security | Enterprise | Dell Secureworks           | "https://www.secureworks.com/rss?feed=blog&amp;category=research-intelligence"                      | 
@@ -55,7 +56,9 @@
 | EN   | RSS feed     | Security | Enterprise | MITRE ATTACK               | https://medium.com/feed/mitre-attack                                                                | 
 | EN   | RSS feed     | Security | Enterprise | MITRE Engenuity            | https://medium.com/feed/mitre-engenuity                                                             | 
 | EN   | RSS feed     | Security | Enterprise | MITRE Shield               | https://medium.com/feed/mitre-shield                                                                | 
+| EN   | RSS feed     | Security | Enterprise | NCC Group                  | https://research.nccgroup.com/feed                                                                  | 
 | EN   | RSS feed     | Security | Enterprise | Offensive Security         | https://www.offensive-security.com/feed/                                                            | 
+| EN   | RSS feed     | Security | Enterprise | Packet Storm               | https://rss.packetstormsecurity.com                                                                 | 
 | EN   | RSS feed     | Security | Enterprise | Palo Alto                  | https://blog.paloaltonetworks.com/feed/                                                             | 
 | EN   | RSS feed     | Security | Enterprise | Palo Alto Unit42           | https://unit42.paloaltonetworks.com/rss                                                             | 
 | EN   | RSS feed     | Security | Enterprise | PCI SSC                    | https://blog.pcisecuritystandards.org/rss.xml                                                       | 
@@ -75,6 +78,7 @@
 | EN   | RSS feed     | Security | Enterprise | SentinelLabs               | https://labs.sentinelone.com/feed/                                                                  | 
 | EN   | RSS feed     | Security | Enterprise | SentinelOne                | https://www.sentinelone.com/feed/                                                                   | 
 | EN   | RSS feed     | Security | Enterprise | Sophos Naked Security      | https://nakedsecurity.sophos.com/feed                                                               | 
+| EN   | RSS feed     | Security | Enterprise | SpecterOps                 | https://posts.specterops.io/feed                                                                    | 
 | EN   | RSS feed     | Security | Enterprise | Splunk                     | https://www.splunk.com/blog/feed/                                                                   | 
 | EN   | RSS feed     | Security | Enterprise | Synacktiv                  | https://www.synacktiv.com/feed/lastblog.xml                                                         | 
 | EN   | RSS feed     | Security | Enterprise | Tenable                    | https://www.tenable.com/blog/feed                                                                   | 
@@ -84,6 +88,7 @@
 | EN   | RSS feed     | Security | Enterprise | Varonis                    | https://www.varonis.com/blog/feed/                                                                  | 
 | EN   | RSS feed     | Security | Enterprise | VMware Carbon Black        | https://www.carbonblack.com/feed                                                                    | 
 | EN   | RSS feed     | Security | Enterprise | YesWeHack                  | https://blog.yeswehack.com/feed/                                                                    | 
+| EN   | RSS feed     | Security | Enterprise | Zero Day Initiative        | https://www.zerodayinitiative.com/blog/?format=rss                                                  | 
 | EN   | RSS feed     | Security | Enterprise | Zscaler                    | https://www.zscaler.com/blogs/feeds                                                                 | 
 | EN   | RSS feed     | Security | Government | ENISA                      | https://www.enisa.europa.eu/front-page/RSS                                                          | 
 | EN   | RSS feed     | Security | Government | NIST                       | https://www.nist.gov/blogs/cybersecurity-insights/rss.xml                                           | 
