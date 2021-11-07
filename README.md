@@ -2,10 +2,10 @@
 
 | LANG | TYPE         | DOMAIN   | SUBDOMAIN  | NAME                       | URL                                                                                                 | 
 |------|--------------|----------|------------|----------------------------|-----------------------------------------------------------------------------------------------------| 
-| EN   | Cheatsheet   | Security | All        | SANS Institute             | https://www.sans.org/security-resources/posters/all                                                 | 
+| EN   | Cheatsheet   | Security | All        | SANS Institute             | https://www.sans.org/posters/                                                                       | 
 | EN   | Cheatsheet   | Security | CERT       | CERT-SG                    | https://github.com/certsocietegenerale/IRM                                                          | 
 | EN   | Cheatsheet   | Security | Web        | OWASP                      | https://cheatsheetseries.owasp.org/                                                                 | 
-| EN   | CTF platform | Security | All        | HackTheBox                 | https://www.hackthebox.eu/                                                                          | 
+| EN   | CTF platform | Security | All        | HackTheBox                 | https://www.hackthebox.com/                                                                         | 
 | EN   | CTF platform | Security | All        | picoCTF                    | https://play.picoctf.org/                                                                           | 
 | EN   | CTF platform | Security | All        | Root-Me                    | https://www.root-me.org/                                                                            | 
 | EN   | CTF platform | Security | All        | TryHackMe                  | https://tryhackme.com/                                                                              | 
@@ -94,11 +94,17 @@
 | EN   | RSS feed     | Security | Government | NIST                       | https://www.nist.gov/blogs/cybersecurity-insights/rss.xml                                           | 
 | EN   | RSS feed     | Security | Youtube    | 13Cubed                    | https://www.youtube.com/feeds/videos.xml?channel_id=UCy8ntxFEudOCRZYT1f7ya9Q                        | 
 | EN   | RSS feed     | Security | Youtube    | Black Hat                  | https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg                        | 
+| EN   | RSS feed     | Security | Youtube    | BotConf                    | https://www.youtube.com/feeds/videos.xml?channel_id=UCXpJo9O2-ynPeK5SOkMfakg                        | 
 | EN   | RSS feed     | Security | Youtube    | FIRST                      | https://www.youtube.com/feeds/videos.xml?channel_id=UCK3_z6YyWvfqrOuCmrfxsTw                        | 
+| EN   | RSS feed     | Security | Youtube    | Hack The Box               | https://www.youtube.com/feeds/videos.xml?channel_id=UCi67lRCd5qpaHwSXNJisuRQ                        | 
+| EN   | RSS feed     | Security | Youtube    | HackerOne                  | https://www.youtube.com/feeds/videos.xml?channel_id=UCsgzmECky2Q9lQMWzDwMhYw                        | 
 | EN   | RSS feed     | Security | Youtube    | HackerSploit               | https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZTPkdxlAKf-V33tqXwi3Q                        | 
 | EN   | RSS feed     | Security | Youtube    | IppSec                     | https://www.youtube.com/feeds/videos.xml?channel_id=UCa6eh7gCkpPo5XXUDfygQQA                        | 
 | EN   | RSS feed     | Security | Youtube    | John Hammond               | https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw                        | 
 | EN   | RSS feed     | Security | Youtube    | LiveOverflow               | https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w                        | 
+| EN   | RSS feed     | Security | Youtube    | LiveUnderflow              | https://www.youtube.com/feeds/videos.xml?channel_id=UCNNfzr9A5dEOscVEDyyzo-A                        | 
+| EN   | RSS feed     | Security | Youtube    | MITRE                      | https://www.youtube.com/feeds/videos.xml?channel_id=UCqD5MdT9cw4LBQ2TaH1-fkw                        | 
+| EN   | RSS feed     | Security | Youtube    | OffensiveCon               | https://www.youtube.com/feeds/videos.xml?channel_id=UCMNvAtT4ak2azKNk6UlB1QQ                        | 
 | EN   | RSS feed     | Security | Youtube    | PortSwigger                | https://www.youtube.com/feeds/videos.xml?channel_id=UCkytgKNbJ0L1UuN1K27GAKA                        | 
 | EN   | RSS feed     | Security | Youtube    | Qualys                     | https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW9oR4Ti3nxIgVwln2KuA                        | 
 | EN   | RSS feed     | Security | Youtube    | Red Team Village           | https://www.youtube.com/feeds/videos.xml?channel_id=UC8nq3PX9coMiqgKH6fw-VCQ                        | 
@@ -118,3 +124,4 @@
 | FR   | RSS feed     | Security | Enterprise | XMCO                       | https://blog.xmco.fr/feed.rss                                                                       | 
 | FR   | RSS feed     | Security | Government | ANSSI                      | https://www.ssi.gouv.fr/feed/actualite/                                                             | 
 | FR   | RSS feed     | Security | Government | CNIL                       | https://www.cnil.fr/fr/rss.xml                                                                      | 
+| FR   | RSS feed     | Security | Youtube    | Hack-It-N                  | https://www.youtube.com/feeds/videos.xml?channel_id=UC97prj7oI1Lhf9j1NYLcoKA                        | 
