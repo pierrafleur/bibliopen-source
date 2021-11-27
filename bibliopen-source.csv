@@ -2,24 +2,24 @@ LANG;TYPE;DOMAIN;SUBDOMAIN;NAME;URL
 EN;Cheatsheet;Security;All;SANS Institute;https://www.sans.org/posters/
 EN;Cheatsheet;Security;CERT;CERT-SG;https://github.com/certsocietegenerale/IRM
 EN;Cheatsheet;Security;Web;OWASP;https://cheatsheetseries.owasp.org/
-EN;CTF platform;Security;All;HackTheBox;https://www.hackthebox.com/
-EN;CTF platform;Security;All;picoCTF;https://play.picoctf.org/
-EN;CTF platform;Security;All;Root-Me;https://www.root-me.org/
-EN;CTF platform;Security;All;TryHackMe;https://tryhackme.com/
-EN;CTF platform;Security;CERT;CyberDefenders;https://cyberdefenders.org/labs/
-EN;CTF platform;Security;Crypto;CryptoHack;https://cryptohack.org/
+EN;CTF training;Security;All;HackTheBox;https://www.hackthebox.com/
+EN;CTF training;Security;All;picoCTF;https://play.picoctf.org/
+EN;CTF training;Security;All;Root-Me;https://www.root-me.org/
+EN;CTF training;Security;All;TryHackMe;https://tryhackme.com/
+EN;CTF training;Security;CERT;CyberDefenders;https://cyberdefenders.org/labs/
+EN;CTF training;Security;Crypto;CryptoHack;https://cryptohack.org/
+EN;MOOC;Security;CERT;CIRCL;https://www.circl.lu/services/training/
 EN;MOOC;Security;CERT;ENISA;https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material
 EN;MOOC;Security;CERT;FIRST;https://www.first.org/education/trainings
 EN;MOOC;Security;CTI;MISP;https://github.com/MISP/misp-training
 EN;MOOC;Security;CTI;MITRE ATTACK;https://attack.mitre.org/resources/training/cti/
-EN;MOOC;Security;Pentest;Kali Linux;https://kali.training/courses/kali-linux-revealed/
 EN;MOOC;Security;Pentest;Metasploit;https://www.offensive-security.com/metasploit-unleashed/
 EN;MOOC;Security;Web;Web Security Academy;https://portswigger.net/web-security
-EN;RSS feed;Security;CERT;CISA;https://us-cert.cisa.gov/ncas/all.xml
 EN;RSS feed;Security;CERT;MSRC;https://msrc-blog.microsoft.com/feed/
 EN;RSS feed;Security;CERT;NCSC-UK;https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
 EN;RSS feed;Security;CERT;NVD;https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml
 EN;RSS feed;Security;CERT;NVD Analyzed;https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml
+EN;RSS feed;Security;CERT;US-CERT;https://us-cert.cisa.gov/ncas/all.xml
 EN;RSS feed;Security;Enterprise;Acunetix;https://www.acunetix.com/blog/feed
 EN;RSS feed;Security;Enterprise;AWS;https://aws.amazon.com/blogs/security/feed/
 EN;RSS feed;Security;Enterprise;Bitdefender;https://labs.bitdefender.com/rss
@@ -43,6 +43,7 @@ EN;RSS feed;Security;Enterprise;GitHub;https://securitylab.github.com/research/f
 EN;RSS feed;Security;Enterprise;Google;https://security.googleblog.com/feeds/posts/default
 EN;RSS feed;Security;Enterprise;Google Project Zero;https://googleprojectzero.blogspot.com/feeds/posts/default
 EN;RSS feed;Security;Enterprise;HackerOne;https://www.hackerone.com/blog.rss
+EN;RSS feed;Security;Enterprise;Hex Rays;https://hex-rays.com/feed/
 EN;RSS feed;Security;Enterprise;IBM X-Force;https://securityintelligence.com/category/x-force/feed
 EN;RSS feed;Security;Enterprise;Kaspersky;https://www.kaspersky.com/blog/feed/
 EN;RSS feed;Security;Enterprise;Kaspersky Securelist;https://securelist.com/feed/
@@ -87,11 +88,13 @@ EN;RSS feed;Security;Enterprise;VMware Carbon Black;https://www.carbonblack.com/
 EN;RSS feed;Security;Enterprise;YesWeHack;https://blog.yeswehack.com/feed/
 EN;RSS feed;Security;Enterprise;Zero Day Initiative;https://www.zerodayinitiative.com/blog/?format=rss
 EN;RSS feed;Security;Enterprise;Zscaler;https://www.zscaler.com/blogs/feeds
+EN;RSS feed;Security;Government;CISA;https://www.cisa.gov/cisa/news.xml
 EN;RSS feed;Security;Government;ENISA;https://www.enisa.europa.eu/front-page/RSS
 EN;RSS feed;Security;Government;NIST;https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
 EN;RSS feed;Security;Youtube;13Cubed;https://www.youtube.com/feeds/videos.xml?channel_id=UCy8ntxFEudOCRZYT1f7ya9Q
 EN;RSS feed;Security;Youtube;Black Hat;https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg
 EN;RSS feed;Security;Youtube;BotConf;https://www.youtube.com/feeds/videos.xml?channel_id=UCXpJo9O2-ynPeK5SOkMfakg
+EN;RSS feed;Security;Youtube;BruCon;https://www.youtube.com/feeds/videos.xml?channel_id=UCqwMU1l90lf9BLersW6eAHw
 EN;RSS feed;Security;Youtube;FIRST;https://www.youtube.com/feeds/videos.xml?channel_id=UCK3_z6YyWvfqrOuCmrfxsTw
 EN;RSS feed;Security;Youtube;Hack The Box;https://www.youtube.com/feeds/videos.xml?channel_id=UCi67lRCd5qpaHwSXNJisuRQ
 EN;RSS feed;Security;Youtube;HackerOne;https://www.youtube.com/feeds/videos.xml?channel_id=UCsgzmECky2Q9lQMWzDwMhYw
@@ -110,6 +113,7 @@ EN;RSS feed;Security;Youtube;SANS DFIR;https://www.youtube.com/feeds/videos.xml?
 EN;RSS feed;Security;Youtube;SANS Offensive Operations;https://www.youtube.com/feeds/videos.xml?channel_id=UCP28F4uf9s2V1_SQwnJST_A
 EN;RSS feed;Security;Youtube;STOK;https://www.youtube.com/feeds/videos.xml?channel_id=UCQN2DsjnYH60SFBIA6IkNwg
 FR;RSS feed;Security;CERT;CERT-FR;https://www.cert.ssi.gouv.fr/feed/
+FR;RSS feed;Security;CERT;Cyberveille Santé;https://www.cyberveille-sante.gouv.fr/cyberveille/rss.xml
 FR;RSS feed;Security;Enterprise;Acceis;https://www.acceis.fr/feed/
 FR;RSS feed;Security;Enterprise;Amossys;https://blog.amossys.fr/feeds/all.rss.xml
 FR;RSS feed;Security;Enterprise;BSSI;https://blog.bssi.fr/feed/
