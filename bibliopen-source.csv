@@ -21,8 +21,9 @@ EN;RSS feed;Security;CERT;NVD;https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xm
 EN;RSS feed;Security;CERT;NVD Analyzed;https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml
 EN;RSS feed;Security;CERT;US-CERT;https://us-cert.cisa.gov/ncas/all.xml
 EN;RSS feed;Security;Enterprise;Acunetix;https://www.acunetix.com/blog/feed
+EN;RSS feed;Security;Enterprise;AlienVault;https://cybersecurity.att.com/site/blog-all-rss
 EN;RSS feed;Security;Enterprise;AWS;https://aws.amazon.com/blogs/security/feed/
-EN;RSS feed;Security;Enterprise;Bitdefender;https://labs.bitdefender.com/rss
+EN;RSS feed;Security;Enterprise;Bitdefender;https://www.bitdefender.com/blog/api/rss/labs/
 EN;RSS feed;Security;Enterprise;Bugcrowd;https://www.bugcrowd.com/feed/
 EN;RSS feed;Security;Enterprise;Check Point;https://research.checkpoint.com/feed
 EN;RSS feed;Security;Enterprise;Cisco Talos;https://blog.talosintelligence.com/feeds/posts/default
@@ -84,12 +85,12 @@ EN;RSS feed;Security;Enterprise;ThreatQuotient;https://www.threatq.com/feed/
 EN;RSS feed;Security;Enterprise;Trustwave;https://www.trustwave.com/en-us/rss/trustwave-blog/
 EN;RSS feed;Security;Enterprise;Trustwave SpiderLabs;https://www.trustwave.com/en-us/rss/spiderlabs-blog/
 EN;RSS feed;Security;Enterprise;Varonis;https://www.varonis.com/blog/feed/
-EN;RSS feed;Security;Enterprise;VMware Carbon Black;https://www.carbonblack.com/feed
+EN;RSS feed;Security;Enterprise;VMware;https://blogs.vmware.com/top-nav/security/feed
 EN;RSS feed;Security;Enterprise;YesWeHack;https://blog.yeswehack.com/feed/
 EN;RSS feed;Security;Enterprise;Zero Day Initiative;https://www.zerodayinitiative.com/blog/?format=rss
 EN;RSS feed;Security;Enterprise;Zscaler;https://www.zscaler.com/blogs/feeds
 EN;RSS feed;Security;Government;CISA;https://www.cisa.gov/cisa/news.xml
-EN;RSS feed;Security;Government;ENISA;https://www.enisa.europa.eu/front-page/RSS
+EN;RSS feed;Security;Government;ENISA;https://www.enisa.europa.eu/rss.xml
 EN;RSS feed;Security;Government;NIST;https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
 EN;RSS feed;Security;Youtube;13Cubed;https://www.youtube.com/feeds/videos.xml?channel_id=UCy8ntxFEudOCRZYT1f7ya9Q
 EN;RSS feed;Security;Youtube;Black Hat;https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg
