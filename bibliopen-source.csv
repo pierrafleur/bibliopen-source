@@ -96,10 +96,16 @@ EN;RSS feed;Security;Youtube;13Cubed;https://www.youtube.com/feeds/videos.xml?ch
 EN;RSS feed;Security;Youtube;Black Hat;https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg
 EN;RSS feed;Security;Youtube;BotConf;https://www.youtube.com/feeds/videos.xml?channel_id=UCXpJo9O2-ynPeK5SOkMfakg
 EN;RSS feed;Security;Youtube;BruCon;https://www.youtube.com/feeds/videos.xml?channel_id=UCqwMU1l90lf9BLersW6eAHw
+EN;RSS feed;Security;Youtube;CCC;https://www.youtube.com/feeds/videos.xml?channel_id=UC2TXq_t06Hjdr2g_KdKpHQg
+EN;RSS feed;Security;Youtube;CCDCOE;https://www.youtube.com/feeds/videos.xml?channel_id=UCkhMrooxbUEA0PklayujbgA
+EN;RSS feed;Security;Youtube;Codingo;https://www.youtube.com/feeds/videos.xml?channel_id=UCUfO02gdMDXgOJWdv_jiLMg
+EN;RSS feed;Security;Youtube;DefCon;https://www.youtube.com/feeds/videos.xml?channel_id=UC6Om9kAkl32dWlDSNlDS9Iw
 EN;RSS feed;Security;Youtube;FIRST;https://www.youtube.com/feeds/videos.xml?channel_id=UCK3_z6YyWvfqrOuCmrfxsTw
+EN;RSS feed;Security;Youtube;GreHack;https://www.youtube.com/feeds/videos.xml?channel_id=UCXpdxLSDlJmgphPCRK9kR_Q
 EN;RSS feed;Security;Youtube;Hack The Box;https://www.youtube.com/feeds/videos.xml?channel_id=UCi67lRCd5qpaHwSXNJisuRQ
 EN;RSS feed;Security;Youtube;HackerOne;https://www.youtube.com/feeds/videos.xml?channel_id=UCsgzmECky2Q9lQMWzDwMhYw
 EN;RSS feed;Security;Youtube;HackerSploit;https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZTPkdxlAKf-V33tqXwi3Q
+EN;RSS feed;Security;Youtube;InsiderPhD;https://www.youtube.com/feeds/videos.xml?channel_id=UCPiN9NPjIer8Do9gUFxKv7A
 EN;RSS feed;Security;Youtube;IppSec;https://www.youtube.com/feeds/videos.xml?channel_id=UCa6eh7gCkpPo5XXUDfygQQA
 EN;RSS feed;Security;Youtube;John Hammond;https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw
 EN;RSS feed;Security;Youtube;LiveOverflow;https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w
@@ -113,6 +119,7 @@ EN;RSS feed;Security;Youtube;RPISEC;https://www.youtube.com/feeds/videos.xml?cha
 EN;RSS feed;Security;Youtube;SANS DFIR;https://www.youtube.com/feeds/videos.xml?channel_id=UCwSo89W3KgPrid41vskBDYA
 EN;RSS feed;Security;Youtube;SANS Offensive Operations;https://www.youtube.com/feeds/videos.xml?channel_id=UCP28F4uf9s2V1_SQwnJST_A
 EN;RSS feed;Security;Youtube;STOK;https://www.youtube.com/feeds/videos.xml?channel_id=UCQN2DsjnYH60SFBIA6IkNwg
+EN;RSS feed;Security;Youtube;The Cyber Mentor;https://www.youtube.com/feeds/videos.xml?channel_id=UC0ArlFuFYMpEewyRBzdLHiw
 FR;RSS feed;Security;CERT;CERT-FR;https://www.cert.ssi.gouv.fr/feed/
 FR;RSS feed;Security;CERT;Cyberveille Santé;https://www.cyberveille-sante.gouv.fr/cyberveille/rss.xml
 FR;RSS feed;Security;Enterprise;Acceis;https://www.acceis.fr/feed/
@@ -126,4 +133,10 @@ FR;RSS feed;Security;Enterprise;Synetis;https://www.synetis.com/feed/
 FR;RSS feed;Security;Enterprise;XMCO;https://blog.xmco.fr/feed.rss
 FR;RSS feed;Security;Government;ANSSI;https://www.ssi.gouv.fr/feed/actualite/
 FR;RSS feed;Security;Government;CNIL;https://www.cnil.fr/fr/rss.xml
+FR;RSS feed;Security;Youtube;AEGE;https://www.youtube.com/feeds/videos.xml?channel_id=UCbIfUl3QPj35cT7za0iFDxQ
 FR;RSS feed;Security;Youtube;Hack-It-N;https://www.youtube.com/feeds/videos.xml?channel_id=UC97prj7oI1Lhf9j1NYLcoKA
+FR;RSS feed;Security;Youtube;Hack2G2;https://www.youtube.com/feeds/videos.xml?channel_id=UCqJt_ViIsIBNk7OLhEm_bZA
+FR;RSS feed;Security;Youtube;LeHack;https://www.youtube.com/feeds/videos.xml?channel_id=UCSxk_CUfES4ly5Sspc0Vorw
+FR;RSS feed;Security;Youtube;Les Assises;https://www.youtube.com/feeds/videos.xml?channel_id=UCpAeamS7J6gtSsrTOVO4nqQ
+FR;RSS feed;Security;Youtube;NoLimitSecu;https://www.youtube.com/feeds/videos.xml?channel_id=UCmDIvvdp_o2jAvMLyi6kgrg
+FR;RSS feed;Security;Youtube;THCon;https://www.youtube.com/feeds/videos.xml?channel_id=UCynu1UtpaZCpDV2IVenAdkg
