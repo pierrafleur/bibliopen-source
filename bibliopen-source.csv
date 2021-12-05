@@ -31,6 +31,7 @@ EN;RSS feed;Security;Enterprise;CompTIA;https://www.comptia.org/rssfeeds/comptia
 EN;RSS feed;Security;Enterprise;Crowdstrike;https://www.crowdstrike.com/blog/feed
 EN;RSS feed;Security;Enterprise;Cybereason;https://www.cybereason.com/blog/rss.xml
 EN;RSS feed;Security;Enterprise;Dell Secureworks;"https://www.secureworks.com/rss?feed=blog&amp;category=research-intelligence"
+EN;RSS feed;Security;Enterprise;DomainTools;https://www.domaintools.com/resources/blog/feed/
 EN;RSS feed;Security;Enterprise;Dragos;https://www.dragos.com/feed
 EN;RSS feed;Security;Enterprise;EC-Council;https://blog.eccouncil.org/feed/
 EN;RSS feed;Security;Enterprise;Eset WeLiveSecurity;https://www.welivesecurity.com/feed
@@ -46,6 +47,7 @@ EN;RSS feed;Security;Enterprise;Google Project Zero;https://googleprojectzero.bl
 EN;RSS feed;Security;Enterprise;HackerOne;https://www.hackerone.com/blog.rss
 EN;RSS feed;Security;Enterprise;Hex Rays;https://hex-rays.com/feed/
 EN;RSS feed;Security;Enterprise;IBM X-Force;https://securityintelligence.com/category/x-force/feed
+EN;RSS feed;Security;Enterprise;Intigriti;https://blog.intigriti.com/feed/
 EN;RSS feed;Security;Enterprise;Kaspersky;https://www.kaspersky.com/blog/feed/
 EN;RSS feed;Security;Enterprise;Kaspersky Securelist;https://securelist.com/feed/
 EN;RSS feed;Security;Enterprise;Luatix;https://medium.com/feed/luatix
@@ -69,13 +71,14 @@ EN;RSS feed;Security;Enterprise;Qualys;https://blog.qualys.com/feed
 EN;RSS feed;Security;Enterprise;Quarkslab;https://blog.quarkslab.com/feeds/all.rss.xml
 EN;RSS feed;Security;Enterprise;Rapid7;https://blog.rapid7.com/rss/
 EN;RSS feed;Security;Enterprise;Recorded Future;https://www.recordedfuture.com/feed/
-EN;RSS feed;Security;Enterprise;Red Canary;https://www.redcanary.co/feed
+EN;RSS feed;Security;Enterprise;Red Canary;https://redcanary.com/feed
 EN;RSS feed;Security;Enterprise;Red Hat;https://www.redhat.com/en/rss/blog/channel/security
 EN;RSS feed;Security;Enterprise;RSA;https://www.rsa.com/en-us/blog/rss.xml
 EN;RSS feed;Security;Enterprise;SANS ISC;https://isc.sans.edu/rssfeed.xml
 EN;RSS feed;Security;Enterprise;Sensepost;https://sensepost.com/rss.xml
 EN;RSS feed;Security;Enterprise;SentinelLabs;https://labs.sentinelone.com/feed/
 EN;RSS feed;Security;Enterprise;SentinelOne;https://www.sentinelone.com/feed/
+EN;RSS feed;Security;Enterprise;Shodan;http://blog.shodan.io/rss/
 EN;RSS feed;Security;Enterprise;Sophos Naked Security;https://nakedsecurity.sophos.com/feed
 EN;RSS feed;Security;Enterprise;SpecterOps;https://posts.specterops.io/feed
 EN;RSS feed;Security;Enterprise;Splunk;https://www.splunk.com/blog/feed/
@@ -85,6 +88,8 @@ EN;RSS feed;Security;Enterprise;ThreatQuotient;https://www.threatq.com/feed/
 EN;RSS feed;Security;Enterprise;Trustwave;https://www.trustwave.com/en-us/rss/trustwave-blog/
 EN;RSS feed;Security;Enterprise;Trustwave SpiderLabs;https://www.trustwave.com/en-us/rss/spiderlabs-blog/
 EN;RSS feed;Security;Enterprise;Varonis;https://www.varonis.com/blog/feed/
+EN;RSS feed;Security;Enterprise;Virus Bulletin;https://www.virusbulletin.com/rss
+EN;RSS feed;Security;Enterprise;VirusTotal;https://blog.virustotal.com/feeds/posts/default
 EN;RSS feed;Security;Enterprise;VMware;https://blogs.vmware.com/top-nav/security/feed
 EN;RSS feed;Security;Enterprise;YesWeHack;https://blog.yeswehack.com/feed/
 EN;RSS feed;Security;Enterprise;Zero Day Initiative;https://www.zerodayinitiative.com/blog/?format=rss
@@ -120,6 +125,7 @@ EN;RSS feed;Security;Youtube;SANS DFIR;https://www.youtube.com/feeds/videos.xml?
 EN;RSS feed;Security;Youtube;SANS Offensive Operations;https://www.youtube.com/feeds/videos.xml?channel_id=UCP28F4uf9s2V1_SQwnJST_A
 EN;RSS feed;Security;Youtube;STOK;https://www.youtube.com/feeds/videos.xml?channel_id=UCQN2DsjnYH60SFBIA6IkNwg
 EN;RSS feed;Security;Youtube;The Cyber Mentor;https://www.youtube.com/feeds/videos.xml?channel_id=UC0ArlFuFYMpEewyRBzdLHiw
+EN;RSS feed;Security;Youtube;Virus Bulletin;https://www.youtube.com/feeds/videos.xml?channel_id=UCrWiEssvRxkygN3nYgNUP4g
 FR;RSS feed;Security;CERT;CERT-FR;https://www.cert.ssi.gouv.fr/feed/
 FR;RSS feed;Security;CERT;Cyberveille Santé;https://www.cyberveille-sante.gouv.fr/cyberveille/rss.xml
 FR;RSS feed;Security;Enterprise;Acceis;https://www.acceis.fr/feed/
