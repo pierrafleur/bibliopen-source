@@ -15,6 +15,7 @@ EN;MOOC;Security;CTI;MISP;https://github.com/MISP/misp-training
 EN;MOOC;Security;CTI;MITRE ATTACK;https://attack.mitre.org/resources/training/cti/
 EN;MOOC;Security;Pentest;Metasploit;https://www.offensive-security.com/metasploit-unleashed/
 EN;MOOC;Security;Web;Web Security Academy;https://portswigger.net/web-security
+EN;RSS feed;Security;CERT;CERT-EU;"https://media.cert.europa.eu/rss?type=category&amp;id=CERT-LatestNews&amp;language=en&amp;duplicates=false"
 EN;RSS feed;Security;CERT;MSRC;https://msrc-blog.microsoft.com/feed/
 EN;RSS feed;Security;CERT;NCSC-UK;https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
 EN;RSS feed;Security;CERT;NVD;https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml
@@ -29,7 +30,9 @@ EN;RSS feed;Security;Enterprise;Check Point;https://research.checkpoint.com/feed
 EN;RSS feed;Security;Enterprise;Cisco Talos;https://blog.talosintelligence.com/feeds/posts/default
 EN;RSS feed;Security;Enterprise;CompTIA;https://www.comptia.org/rssfeeds/comptia-blog
 EN;RSS feed;Security;Enterprise;Crowdstrike;https://www.crowdstrike.com/blog/feed
+EN;RSS feed;Security;Enterprise;CyberArk;http://www.cyberark.com/feed/
 EN;RSS feed;Security;Enterprise;Cybereason;https://www.cybereason.com/blog/rss.xml
+EN;RSS feed;Security;Enterprise;Darktrace;https://www.darktrace.com/blog/index.xml
 EN;RSS feed;Security;Enterprise;Dell Secureworks;"https://www.secureworks.com/rss?feed=blog&amp;category=research-intelligence"
 EN;RSS feed;Security;Enterprise;DomainTools;https://www.domaintools.com/resources/blog/feed/
 EN;RSS feed;Security;Enterprise;Dragos;https://www.dragos.com/feed
@@ -44,10 +47,13 @@ EN;RSS feed;Security;Enterprise;Forcepoint;https://www.forcepoint.com/rss.xml
 EN;RSS feed;Security;Enterprise;GitHub;https://securitylab.github.com/research/feed.xml
 EN;RSS feed;Security;Enterprise;Google;https://security.googleblog.com/feeds/posts/default
 EN;RSS feed;Security;Enterprise;Google Project Zero;https://googleprojectzero.blogspot.com/feeds/posts/default
+EN;RSS feed;Security;Enterprise;Google Threat Analysis Group;https://blog.google/threat-analysis-group/rss
 EN;RSS feed;Security;Enterprise;HackerOne;https://www.hackerone.com/blog.rss
 EN;RSS feed;Security;Enterprise;Hex Rays;https://hex-rays.com/feed/
 EN;RSS feed;Security;Enterprise;IBM X-Force;https://securityintelligence.com/category/x-force/feed
+EN;RSS feed;Security;Enterprise;Infoblox;https://blogs.infoblox.com/category/cyber-threat-intelligence/feed/
 EN;RSS feed;Security;Enterprise;Intigriti;https://blog.intigriti.com/feed/
+EN;RSS feed;Security;Enterprise;Juniper;https://blogs.juniper.net/security/feed
 EN;RSS feed;Security;Enterprise;Kaspersky;https://www.kaspersky.com/blog/feed/
 EN;RSS feed;Security;Enterprise;Kaspersky Securelist;https://securelist.com/feed/
 EN;RSS feed;Security;Enterprise;Luatix;https://medium.com/feed/luatix
