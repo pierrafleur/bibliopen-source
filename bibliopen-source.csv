@@ -12,7 +12,9 @@ EN;MOOC;Security;CERT;CIRCL;https://www.circl.lu/services/training/
 EN;MOOC;Security;CERT;ENISA;https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material
 EN;MOOC;Security;CERT;FIRST;https://www.first.org/education/trainings
 EN;MOOC;Security;CTI;MISP;https://github.com/MISP/misp-training
+EN;MOOC;Security;CTI;MISP for LEA;https://github.com/MISP/misp-training-lea
 EN;MOOC;Security;CTI;MITRE ATTACK;https://attack.mitre.org/resources/training/cti/
+EN;MOOC;Security;DFIR;NeoLEA;https://github.com/neolea/neolea-training-materials
 EN;MOOC;Security;Pentest;Metasploit;https://www.offensive-security.com/metasploit-unleashed/
 EN;MOOC;Security;Web;Web Security Academy;https://portswigger.net/web-security
 EN;RSS feed;Security;CERT;CERT-EU;"https://media.cert.europa.eu/rss?type=category&amp;id=CERT-LatestNews&amp;language=en&amp;duplicates=false"
