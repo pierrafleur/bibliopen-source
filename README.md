@@ -65,6 +65,7 @@
 | EN   | RSS feed     | Security | Enterprise | Kaspersky Securelist         | https://securelist.com/feed/                                                                                 | 
 | EN   | RSS feed     | Security | Enterprise | Luatix                       | https://medium.com/feed/luatix                                                                               | 
 | EN   | RSS feed     | Security | Enterprise | Malwarebytes                 | https://blog.malwarebytes.com/feed/                                                                          | 
+| EN   | RSS feed     | Security | Enterprise | Mandiant                     | https://www.mandiant.com/resources/rss.xml/article_blog                                                      | 
 | EN   | RSS feed     | Security | Enterprise | McAfee                       | https://www.mcafee.com/blogs/feed/                                                                           | 
 | EN   | RSS feed     | Security | Enterprise | Microsoft                    | https://www.microsoft.com/security/blog/feed/                                                                | 
 | EN   | RSS feed     | Security | Enterprise | MITRE ATTACK                 | https://medium.com/feed/mitre-attack                                                                         | 
@@ -137,6 +138,7 @@
 | EN   | RSS feed     | Security | Youtube    | RPISEC                       | https://www.youtube.com/feeds/videos.xml?channel_id=UCY_laWYwPgB9eyxMdPjedcQ                                 | 
 | EN   | RSS feed     | Security | Youtube    | SANS DFIR                    | https://www.youtube.com/feeds/videos.xml?channel_id=UCwSo89W3KgPrid41vskBDYA                                 | 
 | EN   | RSS feed     | Security | Youtube    | SANS Offensive Operations    | https://www.youtube.com/feeds/videos.xml?channel_id=UCP28F4uf9s2V1_SQwnJST_A                                 | 
+| EN   | RSS feed     | Security | Youtube    | SharkFest                    | https://www.youtube.com/feeds/videos.xml?channel_id=UCHBY7sUVdWK4bOSe7khG0UA                                 | 
 | EN   | RSS feed     | Security | Youtube    | STOK                         | https://www.youtube.com/feeds/videos.xml?channel_id=UCQN2DsjnYH60SFBIA6IkNwg                                 | 
 | EN   | RSS feed     | Security | Youtube    | The Cyber Mentor             | https://www.youtube.com/feeds/videos.xml?channel_id=UC0ArlFuFYMpEewyRBzdLHiw                                 | 
 | EN   | RSS feed     | Security | Youtube    | Virus Bulletin               | https://www.youtube.com/feeds/videos.xml?channel_id=UCrWiEssvRxkygN3nYgNUP4g                                 | 
