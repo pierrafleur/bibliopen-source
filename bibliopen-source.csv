@@ -8,6 +8,7 @@ EN;CTF training;Security;All;Root-Me;https://www.root-me.org/
 EN;CTF training;Security;All;TryHackMe;https://tryhackme.com/
 EN;CTF training;Security;CERT;CyberDefenders;https://cyberdefenders.org/labs/
 EN;CTF training;Security;Crypto;CryptoHack;https://cryptohack.org/
+EN;MOOC;Security;Binary;Pwn College;https://pwn.college/
 EN;MOOC;Security;CERT;CIRCL;https://www.circl.lu/services/training/
 EN;MOOC;Security;CERT;ENISA;https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material
 EN;MOOC;Security;CERT;FIRST;https://www.first.org/education/trainings
@@ -17,9 +18,14 @@ EN;MOOC;Security;CTI;MITRE ATTACK;https://attack.mitre.org/resources/training/ct
 EN;MOOC;Security;DFIR;NeoLEA;https://github.com/neolea/neolea-training-materials
 EN;MOOC;Security;Pentest;Metasploit;https://www.offensive-security.com/metasploit-unleashed/
 EN;MOOC;Security;Web;Web Security Academy;https://portswigger.net/web-security
+EN;RSS feed;Security;CERT;CERT-BE;https://cert.be/en/rss
+EN;RSS feed;Security;CERT;CERT-CH;https://www.govcert.ch/blog/rss.xml
 EN;RSS feed;Security;CERT;CERT-EU;"https://media.cert.europa.eu/rss?type=category&amp;id=CERT-LatestNews&amp;language=en&amp;duplicates=false"
+EN;RSS feed;Security;CERT;JPCERT;https://www.jpcert.or.jp/english/rss/jpcert-en.rdf
+EN;RSS feed;Security;CERT;JPCERT Blog;https://blogs.jpcert.or.jp/en/atom.xml
 EN;RSS feed;Security;CERT;MSRC;https://msrc-blog.microsoft.com/feed/
 EN;RSS feed;Security;CERT;NCSC-UK;https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
+EN;RSS feed;Security;CERT;NSCN-NL;https://feeds.english.ncsc.nl/news.rss
 EN;RSS feed;Security;CERT;NVD;https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml
 EN;RSS feed;Security;CERT;NVD Analyzed;https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml
 EN;RSS feed;Security;CERT;US-CERT;https://us-cert.cisa.gov/ncas/all.xml
@@ -31,6 +37,7 @@ EN;RSS feed;Security;Enterprise;Bitdefender;https://www.bitdefender.com/blog/api
 EN;RSS feed;Security;Enterprise;Black Hills;https://www.blackhillsinfosec.com/feed/
 EN;RSS feed;Security;Enterprise;Bugcrowd;https://www.bugcrowd.com/feed/
 EN;RSS feed;Security;Enterprise;Check Point;https://research.checkpoint.com/feed
+EN;RSS feed;Security;Enterprise;CIS;https://www.cisecurity.org/feed/blog
 EN;RSS feed;Security;Enterprise;Cisco Talos;https://blog.talosintelligence.com/feeds/posts/default
 EN;RSS feed;Security;Enterprise;CompTIA;https://www.comptia.org/rssfeeds/comptia-blog
 EN;RSS feed;Security;Enterprise;Crowdstrike;https://www.crowdstrike.com/blog/feed
@@ -68,6 +75,7 @@ EN;RSS feed;Security;Enterprise;Microsoft;https://www.microsoft.com/security/blo
 EN;RSS feed;Security;Enterprise;MITRE ATTACK;https://medium.com/feed/mitre-attack
 EN;RSS feed;Security;Enterprise;MITRE Engage;https://medium.com/feed/mitre-engage
 EN;RSS feed;Security;Enterprise;MITRE Engenuity;https://medium.com/feed/mitre-engenuity
+EN;RSS feed;Security;Enterprise;Mozilla;https://blog.mozilla.org/security/feed/
 EN;RSS feed;Security;Enterprise;NCC Group;https://research.nccgroup.com/feed
 EN;RSS feed;Security;Enterprise;Offensive Security;https://www.offensive-security.com/feed/
 EN;RSS feed;Security;Enterprise;Packet Storm;https://rss.packetstormsecurity.com
@@ -96,7 +104,10 @@ EN;RSS feed;Security;Enterprise;SpecterOps;https://posts.specterops.io/feed
 EN;RSS feed;Security;Enterprise;Splunk;https://www.splunk.com/blog/feed/
 EN;RSS feed;Security;Enterprise;Synacktiv;https://www.synacktiv.com/feed/lastblog.xml
 EN;RSS feed;Security;Enterprise;Tenable;https://www.tenable.com/blog/feed
+EN;RSS feed;Security;Enterprise;Thales Cyberthreat;https://cyberthreat.thalesgroup.com/news/news.xml
+EN;RSS feed;Security;Enterprise;The Record by Recorded Future;https://therecord.media/feed/
 EN;RSS feed;Security;Enterprise;ThreatQuotient;https://www.threatq.com/feed/
+EN;RSS feed;Security;Enterprise;Trail of Bits;https://blog.trailofbits.com/feed/
 EN;RSS feed;Security;Enterprise;Trustwave;https://www.trustwave.com/en-us/rss/trustwave-blog/
 EN;RSS feed;Security;Enterprise;Trustwave SpiderLabs;https://www.trustwave.com/en-us/rss/spiderlabs-blog/
 EN;RSS feed;Security;Enterprise;Varonis;https://www.varonis.com/blog/feed/
@@ -109,6 +120,7 @@ EN;RSS feed;Security;Enterprise;Zscaler;https://www.zscaler.com/blogs/feeds
 EN;RSS feed;Security;Government;CISA;https://www.cisa.gov/cisa/news.xml
 EN;RSS feed;Security;Government;ENISA;https://www.enisa.europa.eu/rss.xml
 EN;RSS feed;Security;Government;NIST;https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
+EN;RSS feed;Security;Tool;MISP;https://www.misp-project.org/feed.xml
 EN;RSS feed;Security;Youtube;13Cubed;https://www.youtube.com/feeds/videos.xml?channel_id=UCy8ntxFEudOCRZYT1f7ya9Q
 EN;RSS feed;Security;Youtube;Black Hat;https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg
 EN;RSS feed;Security;Youtube;BotConf;https://www.youtube.com/feeds/videos.xml?channel_id=UCXpJo9O2-ynPeK5SOkMfakg
