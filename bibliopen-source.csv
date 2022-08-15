@@ -8,7 +8,7 @@ EN;CTF;Security;All;Root-Me;https://www.root-me.org/
 EN;CTF;Security;All;TryHackMe;https://tryhackme.com/
 EN;CTF;Security;CERT;CyberDefenders;https://cyberdefenders.org/labs/
 EN;CTF;Security;Crypto;CryptoHack;https://cryptohack.org/
-EN;CTF;Security;Wargame;OverTheWire;https://overthewire.org/wargames/
+EN;CTF;Security;System;OverTheWire;https://overthewire.org/wargames/
 EN;MOOC;Security;CERT;CIRCL;https://www.circl.lu/services/training/
 EN;MOOC;Security;CERT;ENISA;https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material
 EN;MOOC;Security;CERT;FIRST;https://www.first.org/education/trainings
@@ -25,7 +25,6 @@ EN;RSS feed;Security;CERT;CERT-BE;https://cert.be/en/rss
 EN;RSS feed;Security;CERT;CERT-CH;https://www.govcert.ch/blog/rss.xml
 EN;RSS feed;Security;CERT;CERT-EU;"https://media.cert.europa.eu/rss?type=category&amp;id=CERT-LatestNews&amp;language=en&amp;duplicates=false"
 EN;RSS feed;Security;CERT;JPCERT;https://www.jpcert.or.jp/english/rss/jpcert-en.rdf
-EN;RSS feed;Security;CERT;JPCERT Blog;https://blogs.jpcert.or.jp/en/atom.xml
 EN;RSS feed;Security;CERT;MSRC;https://msrc-blog.microsoft.com/feed/
 EN;RSS feed;Security;CERT;NCSC-NL;https://feeds.english.ncsc.nl/news.rss
 EN;RSS feed;Security;CERT;NCSC-UK;https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
@@ -47,6 +46,7 @@ EN;RSS feed;Security;Enterprise;Crowdstrike;https://www.crowdstrike.com/blog/fee
 EN;RSS feed;Security;Enterprise;CyberArk;https://www.cyberark.com/feed/
 EN;RSS feed;Security;Enterprise;Cybereason;https://www.cybereason.com/blog/rss.xml
 EN;RSS feed;Security;Enterprise;Darktrace;https://www.darktrace.com/blog/index.xml
+EN;RSS feed;Security;Enterprise;Datadog;https://securitylabs.datadoghq.com/rss/feed.xml
 EN;RSS feed;Security;Enterprise;Dell Secureworks;"https://www.secureworks.com/rss?feed=blog&amp;category=research-intelligence"
 EN;RSS feed;Security;Enterprise;DomainTools;https://www.domaintools.com/resources/blog/feed/
 EN;RSS feed;Security;Enterprise;Dragos;https://www.dragos.com/feed
@@ -122,6 +122,7 @@ EN;RSS feed;Security;Enterprise;Zero Day Initiative;https://www.zerodayinitiativ
 EN;RSS feed;Security;Enterprise;Zscaler;https://www.zscaler.com/blogs/feeds
 EN;RSS feed;Security;Government;CISA;https://www.cisa.gov/cisa/news.xml
 EN;RSS feed;Security;Government;ENISA;https://www.enisa.europa.eu/rss.xml
+EN;RSS feed;Security;Government;JPCERT;https://blogs.jpcert.or.jp/en/atom.xml
 EN;RSS feed;Security;Government;NIST;https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
 EN;RSS feed;Security;Tool;MISP;https://www.misp-project.org/feed.xml
 EN;RSS feed;Security;Youtube;13Cubed;https://www.youtube.com/feeds/videos.xml?channel_id=UCy8ntxFEudOCRZYT1f7ya9Q
@@ -143,6 +144,7 @@ EN;RSS feed;Security;Youtube;John Hammond;https://www.youtube.com/feeds/videos.x
 EN;RSS feed;Security;Youtube;LiveOverflow;https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w
 EN;RSS feed;Security;Youtube;LiveUnderflow;https://www.youtube.com/feeds/videos.xml?channel_id=UCNNfzr9A5dEOscVEDyyzo-A
 EN;RSS feed;Security;Youtube;MITRE;https://www.youtube.com/feeds/videos.xml?channel_id=UCqD5MdT9cw4LBQ2TaH1-fkw
+EN;RSS feed;Security;Youtube;Offensive Security;https://www.youtube.com/feeds/videos.xml?channel_id=UChYZsplz61SeG0olX6cMoAA
 EN;RSS feed;Security;Youtube;OffensiveCon;https://www.youtube.com/feeds/videos.xml?channel_id=UCMNvAtT4ak2azKNk6UlB1QQ
 EN;RSS feed;Security;Youtube;PortSwigger;https://www.youtube.com/feeds/videos.xml?channel_id=UCkytgKNbJ0L1UuN1K27GAKA
 EN;RSS feed;Security;Youtube;Qualys;https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW9oR4Ti3nxIgVwln2KuA
