@@ -43,6 +43,18 @@ EN;MOOC;Security;System;Binary Exploitation;https://github.com/RPISEC/MBE
 EN;MOOC;Security;System;Pwn College;https://pwn.college/
 EN;MOOC;Security;Web;Stanford CS 253;https://web.stanford.edu/class/cs253/
 EN;MOOC;Security;Web;Web Security Academy;https://portswigger.net/web-security
+EN;RSS feed;Dev;Any;Opensource;https://opensource.com/rss.xml
+EN;RSS feed;Dev;Ops;Ansible;https://www.ansible.com/blog/rss.xml
+EN;RSS feed;Dev;Ops;Atlassian;https://www.atlassian.com/blog/devops/feed
+EN;RSS feed;Dev;Ops;AWS DevOps;https://aws.amazon.com/blogs/devops/feed/
+EN;RSS feed;Dev;Ops;Azure DevOps;https://devblogs.microsoft.com/devops/feed/
+EN;RSS feed;Dev;Ops;Docker;https://www.docker.com/blog/feed/
+EN;RSS feed;Dev;Ops;GitLab;https://about.gitlab.com/atom.xml
+EN;RSS feed;Dev;Ops;Google Cloud DevOps;https://cloudblog.withgoogle.com/products/devops-sre/rss
+EN;RSS feed;Dev;Ops;HashiCorp;https://www.hashicorp.com/blog/feed.xml
+EN;RSS feed;Dev;Ops;Kubernetes;https://kubernetes.io/feed.xml
+EN;RSS feed;Dev;Ops;Red Hat Developer;https://developers.redhat.com/blog/feed/
+EN;RSS feed;Dev;Python;Real Python;https://realpython.com/atom.xml
 EN;RSS feed;Security;CERT;CERT-BE;https://cert.be/en/rss
 EN;RSS feed;Security;CERT;CERT-CH;https://www.govcert.ch/blog/rss.xml
 EN;RSS feed;Security;CERT;CERT-EU;"https://media.cert.europa.eu/rss?type=category&amp;id=CERT-LatestNews&amp;language=en&amp;duplicates=false"
@@ -80,10 +92,13 @@ EN;RSS feed;Security;Enterprise;F5;https://www.f5.com/labs/rss-feeds/all.xml
 EN;RSS feed;Security;Enterprise;Facebook;https://engineering.fb.com/category/security/feed/
 EN;RSS feed;Security;Enterprise;FireEye;https://www.fireeye.com/blog/feed
 EN;RSS feed;Security;Enterprise;Forcepoint;https://www.forcepoint.com/rss.xml
+EN;RSS feed;Security;Enterprise;Fortinet;https://feeds.fortinet.com/fortinet/blog/threat-research
 EN;RSS feed;Security;Enterprise;GitHub;https://securitylab.github.com/research/feed.xml
 EN;RSS feed;Security;Enterprise;Google;https://security.googleblog.com/feeds/posts/default
+EN;RSS feed;Security;Enterprise;Google Cloud Security;https://cloudblog.withgoogle.com/products/identity-security/rss
 EN;RSS feed;Security;Enterprise;Google Project Zero;https://googleprojectzero.blogspot.com/feeds/posts/default
 EN;RSS feed;Security;Enterprise;Google Threat Analysis Group;https://blog.google/threat-analysis-group/rss
+EN;RSS feed;Security;Enterprise;GreyNoise;https://www.greynoise.io/blog/rss.xml
 EN;RSS feed;Security;Enterprise;HackerOne;https://www.hackerone.com/blog.rss
 EN;RSS feed;Security;Enterprise;Hex Rays;https://hex-rays.com/feed/
 EN;RSS feed;Security;Enterprise;IBM X-Force;https://securityintelligence.com/category/x-force/feed
@@ -133,6 +148,7 @@ EN;RSS feed;Security;Enterprise;Thales Cyberthreat;https://cyberthreat.thalesgro
 EN;RSS feed;Security;Enterprise;The Record by Recorded Future;https://therecord.media/feed/
 EN;RSS feed;Security;Enterprise;ThreatQuotient;https://www.threatq.com/feed/
 EN;RSS feed;Security;Enterprise;Trail of Bits;https://blog.trailofbits.com/feed/
+EN;RSS feed;Security;Enterprise;Trend Micro;https://feeds.trendmicro.com/TrendMicroResearch
 EN;RSS feed;Security;Enterprise;Trustwave;https://www.trustwave.com/en-us/rss/trustwave-blog/
 EN;RSS feed;Security;Enterprise;Trustwave SpiderLabs;https://www.trustwave.com/en-us/rss/spiderlabs-blog/
 EN;RSS feed;Security;Enterprise;Varonis;https://www.varonis.com/blog/feed/
@@ -160,12 +176,14 @@ EN;RSS feed;Security;Youtube;GreHack;https://www.youtube.com/feeds/videos.xml?ch
 EN;RSS feed;Security;Youtube;Hack The Box;https://www.youtube.com/feeds/videos.xml?channel_id=UCi67lRCd5qpaHwSXNJisuRQ
 EN;RSS feed;Security;Youtube;HackerOne;https://www.youtube.com/feeds/videos.xml?channel_id=UCsgzmECky2Q9lQMWzDwMhYw
 EN;RSS feed;Security;Youtube;HackerSploit;https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZTPkdxlAKf-V33tqXwi3Q
+EN;RSS feed;Security;Youtube;Hexacon;https://www.youtube.com/feeds/videos.xml?channel_id=UCtzuVwPhBVFAQnes0NrqxBA
 EN;RSS feed;Security;Youtube;InsiderPhD;https://www.youtube.com/feeds/videos.xml?channel_id=UCPiN9NPjIer8Do9gUFxKv7A
 EN;RSS feed;Security;Youtube;IppSec;https://www.youtube.com/feeds/videos.xml?channel_id=UCa6eh7gCkpPo5XXUDfygQQA
 EN;RSS feed;Security;Youtube;John Hammond;https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw
 EN;RSS feed;Security;Youtube;LiveOverflow;https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w
 EN;RSS feed;Security;Youtube;LiveUnderflow;https://www.youtube.com/feeds/videos.xml?channel_id=UCNNfzr9A5dEOscVEDyyzo-A
 EN;RSS feed;Security;Youtube;MITRE;https://www.youtube.com/feeds/videos.xml?channel_id=UCqD5MdT9cw4LBQ2TaH1-fkw
+EN;RSS feed;Security;Youtube;OALabs;https://www.youtube.com/feeds/videos.xml?channel_id=UC--DwaiMV-jtO-6EvmKOnqg
 EN;RSS feed;Security;Youtube;Offensive Security;https://www.youtube.com/feeds/videos.xml?channel_id=UChYZsplz61SeG0olX6cMoAA
 EN;RSS feed;Security;Youtube;OffensiveCon;https://www.youtube.com/feeds/videos.xml?channel_id=UCMNvAtT4ak2azKNk6UlB1QQ
 EN;RSS feed;Security;Youtube;PortSwigger;https://www.youtube.com/feeds/videos.xml?channel_id=UCkytgKNbJ0L1UuN1K27GAKA
@@ -178,6 +196,11 @@ EN;RSS feed;Security;Youtube;SharkFest;https://www.youtube.com/feeds/videos.xml?
 EN;RSS feed;Security;Youtube;STOK;https://www.youtube.com/feeds/videos.xml?channel_id=UCQN2DsjnYH60SFBIA6IkNwg
 EN;RSS feed;Security;Youtube;The Cyber Mentor;https://www.youtube.com/feeds/videos.xml?channel_id=UC0ArlFuFYMpEewyRBzdLHiw
 EN;RSS feed;Security;Youtube;Virus Bulletin;https://www.youtube.com/feeds/videos.xml?channel_id=UCrWiEssvRxkygN3nYgNUP4g
+EN;RSS feed;System;Linux;Distrowatch;https://distrowatch.com/news/dw.xml
+EN;RSS feed;System;Linux;Enable Sysadmin;https://www.redhat.com/sysadmin/rss.xml
+EN;RSS feed;System;Linux;Fedora Magazine;https://fedoramagazine.org/feed/
+EN;RSS feed;System;Linux;Linux Foundation;https://www.linuxfoundation.org/feed/
+EN;RSS feed;System;Linux;Red Hat;https://www.redhat.com/en/rss/blog
 FR;Dataset;Society;Any;Data Gouv;https://www.data.gouv.fr
 FR;RSS feed;Security;CERT;CERT-FR;https://www.cert.ssi.gouv.fr/feed/
 FR;RSS feed;Security;CERT;Cyberveille Santé;https://www.cyberveille-sante.gouv.fr/cyberveille/rss.xml
