@@ -27,6 +27,7 @@ EN;Dataset;Any;Any;Kaggle;https://www.kaggle.com/datasets
 EN;Dataset;Security;CERT;UNB CIC;https://www.unb.ca/cic/datasets/index.html
 EN;Dataset;Security;CERT;UNSW-NB15;https://researchdata.edu.au/the-unsw-nb15-dataset/1957529/
 EN;MOOC;Any;Any;Microsoft Learning Paths;https://learn.microsoft.com/en-us/training/
+EN;MOOC;Data;AI;FUN-MOOC INRIA;https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/
 EN;MOOC;Data;AI;WUSTL T81-558;https://sites.wustl.edu/jeffheaton/t81-558/
 EN;MOOC;Data;Any;Kaggle;https://www.kaggle.com/learn
 EN;MOOC;Dev;Ops;Hashicorp;https://learn.hashicorp.com/
@@ -202,6 +203,8 @@ EN;RSS feed;System;Linux;Fedora Magazine;https://fedoramagazine.org/feed/
 EN;RSS feed;System;Linux;Linux Foundation;https://www.linuxfoundation.org/feed/
 EN;RSS feed;System;Linux;Red Hat;https://www.redhat.com/en/rss/blog
 FR;Dataset;Society;Any;Data Gouv;https://www.data.gouv.fr
+FR;MOOC;Dev;Python;FUN-MOOC UCA;https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/
+FR;MOOC;Dev;Python;FUN-MOOC ULB;https://www.fun-mooc.fr/fr/cours/apprendre-a-coder-avec-python/
 FR;RSS feed;Security;CERT;CERT-FR;https://www.cert.ssi.gouv.fr/feed/
 FR;RSS feed;Security;CERT;Cyberveille Santé;https://www.cyberveille-sante.gouv.fr/cyberveille/rss.xml
 FR;RSS feed;Security;Enterprise;Acceis;https://www.acceis.fr/feed/
