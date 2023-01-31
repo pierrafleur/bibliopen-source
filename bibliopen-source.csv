@@ -1,6 +1,7 @@
 LANG;TYPE;DOMAIN;SUBDOMAIN;NAME;URL
+EN;Book;Data;AI;Dive into DL;https://github.com/d2l-ai/d2l-en
 EN;Book;Data;AI;MIT Deep Learning;https://www.deeplearningbook.org/
-EN;Book;Dev;Any;Software Engineering at Google;https://abseil.io/resources/swe-book
+EN;Book;Dev;Any;SWE at Google;https://abseil.io/resources/swe-book
 EN;Book;Dev;Any;SWEBOK;https://www.computer.org/education/bodies-of-knowledge/software-engineering
 EN;Book;Dev;Ops;Google SRE;https://sre.google/books/
 EN;Book;Dev;Ops;Red Hat Developers;https://developers.redhat.com/e-books
@@ -24,10 +25,13 @@ EN;CTF;Security;Crypto;CryptoHack;https://cryptohack.org/
 EN;CTF;Security;System;OverTheWire;https://overthewire.org/wargames/
 EN;Dataset;Any;Any;Google Dataset Search;https://datasetsearch.research.google.com/
 EN;Dataset;Any;Any;Kaggle;https://www.kaggle.com/datasets
+EN;Dataset;Any;Any;UC Irvine;https://archive-beta.ics.uci.edu/
 EN;Dataset;Security;CERT;UNB CIC;https://www.unb.ca/cic/datasets/index.html
 EN;Dataset;Security;CERT;UNSW-NB15;https://researchdata.edu.au/the-unsw-nb15-dataset/1957529/
 EN;MOOC;Any;Any;Microsoft Learning Paths;https://learn.microsoft.com/en-us/training/
-EN;MOOC;Data;AI;FUN-MOOC INRIA;https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/
+EN;MOOC;Data;AI;INRIA Scikit-learn;https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/
+EN;MOOC;Data;AI;IP-Paris Deep Learning;https://m2dsupsdlclass.github.io/lectures-labs/
+EN;MOOC;Data;AI;Microsoft AI;https://github.com/microsoft/ai-for-beginners
 EN;MOOC;Data;AI;WUSTL T81-558;https://sites.wustl.edu/jeffheaton/t81-558/
 EN;MOOC;Data;Any;Kaggle;https://www.kaggle.com/learn
 EN;MOOC;Dev;Ops;Hashicorp;https://learn.hashicorp.com/
@@ -44,18 +48,54 @@ EN;MOOC;Security;System;Binary Exploitation;https://github.com/RPISEC/MBE
 EN;MOOC;Security;System;Pwn College;https://pwn.college/
 EN;MOOC;Security;Web;Stanford CS 253;https://web.stanford.edu/class/cs253/
 EN;MOOC;Security;Web;Web Security Academy;https://portswigger.net/web-security
+EN;RSS feed;Data;AI;Amazon Science;https://www.amazon.science/index.rss
+EN;RSS feed;Data;AI;Apple Machine Learning;https://machinelearning.apple.com/rss.xml
+EN;RSS feed;Data;AI;AWS Machine Learning;https://aws.amazon.com/blogs/machine-learning/feed
+EN;RSS feed;Data;AI;Berkeley AI;https://bair.berkeley.edu/blog/feed
+EN;RSS feed;Data;AI;CMU Machine Learning;https://blog.ml.cmu.edu/feed/
+EN;RSS feed;Data;AI;DeepMind;https://deepmind.com/blog/rss.xml
+EN;RSS feed;Data;AI;Google AI;https://blog.google/technology/ai/rss/
+EN;RSS feed;Data;AI;Microsoft AI;https://news.microsoft.com/source/topics/ai/feed/
+EN;RSS feed;Data;AI;MIT AI;https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml
+EN;RSS feed;Data;AI;OpenAI;https://openai.com/blog/feed
+EN;RSS feed;Data;AI;TensorFlow;https://blog.tensorflow.org/feeds/posts/default
+EN;RSS feed;Data;Any;KDnuggets;https://www.kdnuggets.com/feed/
+EN;RSS feed;Data;Any;Towards Data Science;https://towardsdatascience.com/feed
+EN;RSS feed;Dev;Any;Dropbox;https://dropbox.tech/feed
+EN;RSS feed;Dev;Any;Google Developer Experts;https://medium.com/feed/google-developer-experts
+EN;RSS feed;Dev;Any;LinkedIn;https://engineering.linkedin.com/blog.rss.html
+EN;RSS feed;Dev;Any;Mozilla;https://hacks.mozilla.org/feed/
+EN;RSS feed;Dev;Any;Netflix;https://netflixtechblog.com/feed
 EN;RSS feed;Dev;Any;Opensource;https://opensource.com/rss.xml
+EN;RSS feed;Dev;Any;SEI CMU;https://insights.sei.cmu.edu/blog/feeds/latest/rss/
+EN;RSS feed;Dev;Any;Shopify;https://shopify.engineering/blog.atom
+EN;RSS feed;Dev;Any;Spotify;https://engineering.atspotify.com/feed
+EN;RSS feed;Dev;Any;Twitter;https://blog.twitter.com/engineering/feed
+EN;RSS feed;Dev;Any;Uber;https://www.uber.com/blog/engineering/rss
+EN;RSS feed;Dev;Any;Zalando;https://engineering.zalando.com/atom.xml
+EN;RSS feed;Dev;Go;Go;https://go.dev/blog/feed.atom
 EN;RSS feed;Dev;Ops;Ansible;https://www.ansible.com/blog/rss.xml
 EN;RSS feed;Dev;Ops;Atlassian;https://www.atlassian.com/blog/devops/feed
 EN;RSS feed;Dev;Ops;AWS DevOps;https://aws.amazon.com/blogs/devops/feed/
 EN;RSS feed;Dev;Ops;Azure DevOps;https://devblogs.microsoft.com/devops/feed/
+EN;RSS feed;Dev;Ops;Datadog;https://www.datadoghq.com/blog/index.xml
 EN;RSS feed;Dev;Ops;Docker;https://www.docker.com/blog/feed/
+EN;RSS feed;Dev;Ops;Elastic;https://www.elastic.co/blog/feed
 EN;RSS feed;Dev;Ops;GitLab;https://about.gitlab.com/atom.xml
 EN;RSS feed;Dev;Ops;Google Cloud DevOps;https://cloudblog.withgoogle.com/products/devops-sre/rss
+EN;RSS feed;Dev;Ops;Grafana;https://grafana.com/blog/index.xml
 EN;RSS feed;Dev;Ops;HashiCorp;https://www.hashicorp.com/blog/feed.xml
 EN;RSS feed;Dev;Ops;Kubernetes;https://kubernetes.io/feed.xml
+EN;RSS feed;Dev;Ops;PagerDuty;https://www.pagerduty.com/blog/feed
 EN;RSS feed;Dev;Ops;Red Hat Developer;https://developers.redhat.com/blog/feed/
+EN;RSS feed;Dev;Python;Jupyter;https://blog.jupyter.org/feed
+EN;RSS feed;Dev;Python;Python;https://blog.python.org/feeds/posts/default
 EN;RSS feed;Dev;Python;Real Python;https://realpython.com/atom.xml
+EN;RSS feed;Dev;Rust;Rust;https://blog.rust-lang.org/feed
+EN;RSS feed;Dev;YouTube;JupyterCon;https://www.youtube.com/feeds/videos.xml?channel_id=UCk4mxleDfaMqdm5kHISD3qA
+EN;RSS feed;Network;Cloud;AWS Architecture;https://aws.amazon.com/blogs/architecture/feed/
+EN;RSS feed;Network;Cloud;Google Cloud Networking;https://cloudblog.withgoogle.com/products/networking/rss
+EN;RSS feed;Network;Cloud;OVH;https://blog.ovhcloud.com/feed/
 EN;RSS feed;Security;CERT;CERT-BE;https://cert.be/en/rss
 EN;RSS feed;Security;CERT;CERT-CH;https://www.govcert.ch/blog/rss.xml
 EN;RSS feed;Security;CERT;CERT-EU;"https://media.cert.europa.eu/rss?type=category&amp;id=CERT-LatestNews&amp;language=en&amp;duplicates=false"
@@ -95,6 +135,7 @@ EN;RSS feed;Security;Enterprise;FireEye;https://www.fireeye.com/blog/feed
 EN;RSS feed;Security;Enterprise;Forcepoint;https://www.forcepoint.com/rss.xml
 EN;RSS feed;Security;Enterprise;Fortinet;https://feeds.fortinet.com/fortinet/blog/threat-research
 EN;RSS feed;Security;Enterprise;GitHub;https://securitylab.github.com/research/feed.xml
+EN;RSS feed;Security;Enterprise;GitHub;https://github.blog/category/security/feed/
 EN;RSS feed;Security;Enterprise;Google;https://security.googleblog.com/feeds/posts/default
 EN;RSS feed;Security;Enterprise;Google Cloud Security;https://cloudblog.withgoogle.com/products/identity-security/rss
 EN;RSS feed;Security;Enterprise;Google Project Zero;https://googleprojectzero.blogspot.com/feeds/posts/default
@@ -118,6 +159,7 @@ EN;RSS feed;Security;Enterprise;MITRE Engage;https://medium.com/feed/mitre-engag
 EN;RSS feed;Security;Enterprise;MITRE Engenuity;https://medium.com/feed/mitre-engenuity
 EN;RSS feed;Security;Enterprise;Mozilla;https://blog.mozilla.org/security/feed/
 EN;RSS feed;Security;Enterprise;NCC Group;https://research.nccgroup.com/feed
+EN;RSS feed;Security;Enterprise;NVISO;https://blog.nviso.eu/feed/
 EN;RSS feed;Security;Enterprise;Offensive Security;https://www.offensive-security.com/feed/
 EN;RSS feed;Security;Enterprise;Packet Storm;https://rss.packetstormsecurity.com
 EN;RSS feed;Security;Enterprise;Palo Alto;https://blog.paloaltonetworks.com/feed/
@@ -143,6 +185,8 @@ EN;RSS feed;Security;Enterprise;Shodan;https://blog.shodan.io/rss/
 EN;RSS feed;Security;Enterprise;Sophos Naked Security;https://nakedsecurity.sophos.com/feed
 EN;RSS feed;Security;Enterprise;SpecterOps;https://posts.specterops.io/feed
 EN;RSS feed;Security;Enterprise;Splunk;https://www.splunk.com/blog/feed/
+EN;RSS feed;Security;Enterprise;Splunk Research;https://research.splunk.com/feed.xml
+EN;RSS feed;Security;Enterprise;Spotify;https://engineering.atspotify.com/category/security/feed
 EN;RSS feed;Security;Enterprise;Synacktiv;https://www.synacktiv.com/feed/lastblog.xml
 EN;RSS feed;Security;Enterprise;Tenable;https://www.tenable.com/blog/feed
 EN;RSS feed;Security;Enterprise;Thales Cyberthreat;https://cyberthreat.thalesgroup.com/news/news.xml
@@ -162,7 +206,9 @@ EN;RSS feed;Security;Enterprise;Zscaler;https://www.zscaler.com/blogs/feeds
 EN;RSS feed;Security;Government;CISA;https://www.cisa.gov/cisa/news.xml
 EN;RSS feed;Security;Government;ENISA;https://www.enisa.europa.eu/rss.xml
 EN;RSS feed;Security;Government;JPCERT;https://blogs.jpcert.or.jp/en/atom.xml
+EN;RSS feed;Security;Government;MIT Cybersecurity;https://news.mit.edu/topic/mitcyber-security-rss.xml
 EN;RSS feed;Security;Government;NIST;https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
+EN;RSS feed;Security;Government;WUSTL;https://informationsecurity.wustl.edu/feed/
 EN;RSS feed;Security;Tool;MISP;https://www.misp-project.org/feed.xml
 EN;RSS feed;Security;Youtube;13Cubed;https://www.youtube.com/feeds/videos.xml?channel_id=UCy8ntxFEudOCRZYT1f7ya9Q
 EN;RSS feed;Security;Youtube;Black Hat;https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg
