@@ -1,19 +1,19 @@
 LANG;TYPE;DOMAIN;SUBDOMAIN;NAME;URL
 EN;Book;Data;AI;Dive into DL;https://github.com/d2l-ai/d2l-en
 EN;Book;Data;AI;MIT Deep Learning;https://www.deeplearningbook.org/
-EN;Book;Dev;Any;SWE at Google;https://abseil.io/resources/swe-book
-EN;Book;Dev;Any;SWEBOK;https://www.computer.org/education/bodies-of-knowledge/software-engineering
+EN;Book;Dev;Engineering;SWE at Google;https://abseil.io/resources/swe-book
+EN;Book;Dev;Engineering;SWEBOK;https://www.computer.org/education/bodies-of-knowledge/software-engineering
 EN;Book;Dev;Ops;Google SRE;https://sre.google/books/
 EN;Book;Dev;Ops;Red Hat Developers;https://developers.redhat.com/e-books
 EN;Book;Dev;Python;AI Sweigart's books;https://inventwithpython.com/
-EN;Book;Security;Any;CyBOK;https://www.cybok.org/resources/
+EN;Book;Security;Engineering;CyBOK;https://www.cybok.org/resources/
 EN;Book;System;Linux;Debian handbook;https://www.debian.org/doc/manuals/debian-handbook/
 EN;Cheatsheet;Data;AI;Stanford CS 221;https://github.com/afshinea/stanford-cs-221-artificial-intelligence
 EN;Cheatsheet;Data;AI;Stanford CS 229;https://github.com/afshinea/stanford-cs-229-machine-learning
 EN;Cheatsheet;Data;AI;Stanford CS 230;https://github.com/afshinea/stanford-cs-230-deep-learning
-EN;Cheatsheet;Data;Any;MIT 15-003;https://github.com/shervinea/mit-15-003-data-science-tools
-EN;Cheatsheet;Network;Any;PacketLife;https://packetlife.net/library/cheat-sheets/
-EN;Cheatsheet;Security;Any;SANS Institute;https://www.sans.org/posters/
+EN;Cheatsheet;Data;Engineering;MIT 15-003;https://github.com/shervinea/mit-15-003-data-science-tools
+EN;Cheatsheet;Network;Engineering;PacketLife;https://packetlife.net/library/cheat-sheets/
+EN;Cheatsheet;Security;Engineering;SANS Institute;https://www.sans.org/posters/
 EN;Cheatsheet;Security;CERT;CERT-SG;https://github.com/certsocietegenerale/IRM
 EN;Cheatsheet;Security;Web;OWASP;https://cheatsheetseries.owasp.org/
 EN;CTF;Security;Any;HackTheBox;https://www.hackthebox.com/
@@ -28,12 +28,13 @@ EN;Dataset;Any;Any;Kaggle;https://www.kaggle.com/datasets
 EN;Dataset;Any;Any;UC Irvine;https://archive-beta.ics.uci.edu/
 EN;Dataset;Security;CERT;UNB CIC;https://www.unb.ca/cic/datasets/index.html
 EN;Dataset;Security;CERT;UNSW-NB15;https://researchdata.edu.au/the-unsw-nb15-dataset/1957529/
-EN;MOOC;Any;Any;Microsoft Learning Paths;https://learn.microsoft.com/en-us/training/
+EN;MOOC;Data;AI;Google Machine Learning;https://developers.google.com/machine-learning
 EN;MOOC;Data;AI;INRIA Scikit-learn;https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/
 EN;MOOC;Data;AI;IP-Paris Deep Learning;https://m2dsupsdlclass.github.io/lectures-labs/
 EN;MOOC;Data;AI;Microsoft AI;https://github.com/microsoft/ai-for-beginners
 EN;MOOC;Data;AI;WUSTL T81-558;https://sites.wustl.edu/jeffheaton/t81-558/
-EN;MOOC;Data;Any;Kaggle;https://www.kaggle.com/learn
+EN;MOOC;Data;Engineering;Kaggle;https://www.kaggle.com/learn
+EN;MOOC;Dev;Engineering;Google Tech Writing;https://developers.google.com/tech-writing
 EN;MOOC;Dev;Ops;Hashicorp;https://learn.hashicorp.com/
 EN;MOOC;Security;CERT;CIRCL;https://www.circl.lu/services/training/
 EN;MOOC;Security;CERT;ENISA;https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material
@@ -48,6 +49,7 @@ EN;MOOC;Security;System;Binary Exploitation;https://github.com/RPISEC/MBE
 EN;MOOC;Security;System;Pwn College;https://pwn.college/
 EN;MOOC;Security;Web;Stanford CS 253;https://web.stanford.edu/class/cs253/
 EN;MOOC;Security;Web;Web Security Academy;https://portswigger.net/web-security
+EN;MOOC;System;Microsoft;Microsoft Learning Paths;https://learn.microsoft.com/en-us/training/
 EN;RSS feed;Data;AI;Amazon Science;https://www.amazon.science/index.rss
 EN;RSS feed;Data;AI;Apple Machine Learning;https://machinelearning.apple.com/rss.xml
 EN;RSS feed;Data;AI;AWS Machine Learning;https://aws.amazon.com/blogs/machine-learning/feed
@@ -59,20 +61,20 @@ EN;RSS feed;Data;AI;Microsoft AI;https://news.microsoft.com/source/topics/ai/fee
 EN;RSS feed;Data;AI;MIT AI;https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml
 EN;RSS feed;Data;AI;OpenAI;https://openai.com/blog/feed
 EN;RSS feed;Data;AI;TensorFlow;https://blog.tensorflow.org/feeds/posts/default
-EN;RSS feed;Data;Any;KDnuggets;https://www.kdnuggets.com/feed/
-EN;RSS feed;Data;Any;Towards Data Science;https://towardsdatascience.com/feed
-EN;RSS feed;Dev;Any;Dropbox;https://dropbox.tech/feed
-EN;RSS feed;Dev;Any;Google Developer Experts;https://medium.com/feed/google-developer-experts
-EN;RSS feed;Dev;Any;LinkedIn;https://engineering.linkedin.com/blog.rss.html
-EN;RSS feed;Dev;Any;Mozilla;https://hacks.mozilla.org/feed/
-EN;RSS feed;Dev;Any;Netflix;https://netflixtechblog.com/feed
-EN;RSS feed;Dev;Any;Opensource;https://opensource.com/rss.xml
-EN;RSS feed;Dev;Any;SEI CMU;https://insights.sei.cmu.edu/blog/feeds/latest/rss/
-EN;RSS feed;Dev;Any;Shopify;https://shopify.engineering/blog.atom
-EN;RSS feed;Dev;Any;Spotify;https://engineering.atspotify.com/feed
-EN;RSS feed;Dev;Any;Twitter;https://blog.twitter.com/engineering/feed
-EN;RSS feed;Dev;Any;Uber;https://www.uber.com/blog/engineering/rss
-EN;RSS feed;Dev;Any;Zalando;https://engineering.zalando.com/atom.xml
+EN;RSS feed;Data;Engineering;KDnuggets;https://www.kdnuggets.com/feed/
+EN;RSS feed;Data;Engineering;Towards Data Science;https://towardsdatascience.com/feed
+EN;RSS feed;Dev;Engineering;Dropbox;https://dropbox.tech/feed
+EN;RSS feed;Dev;Engineering;Google Developer Experts;https://medium.com/feed/google-developer-experts
+EN;RSS feed;Dev;Engineering;LinkedIn;https://engineering.linkedin.com/blog.rss.html
+EN;RSS feed;Dev;Engineering;Mozilla;https://hacks.mozilla.org/feed/
+EN;RSS feed;Dev;Engineering;Netflix;https://netflixtechblog.com/feed
+EN;RSS feed;Dev;Engineering;Opensource;https://opensource.com/rss.xml
+EN;RSS feed;Dev;Engineering;SEI CMU;https://insights.sei.cmu.edu/blog/feeds/latest/rss/
+EN;RSS feed;Dev;Engineering;Shopify;https://shopify.engineering/blog.atom
+EN;RSS feed;Dev;Engineering;Spotify;https://engineering.atspotify.com/feed
+EN;RSS feed;Dev;Engineering;Twitter;https://blog.twitter.com/engineering/feed
+EN;RSS feed;Dev;Engineering;Uber;https://www.uber.com/blog/engineering/rss
+EN;RSS feed;Dev;Engineering;Zalando;https://engineering.zalando.com/atom.xml
 EN;RSS feed;Dev;Go;Go;https://go.dev/blog/feed.atom
 EN;RSS feed;Dev;Ops;Ansible;https://www.ansible.com/blog/rss.xml
 EN;RSS feed;Dev;Ops;Atlassian;https://www.atlassian.com/blog/devops/feed
@@ -199,7 +201,7 @@ EN;RSS feed;Security;Enterprise;Trustwave SpiderLabs;https://www.trustwave.com/e
 EN;RSS feed;Security;Enterprise;Varonis;https://www.varonis.com/blog/feed/
 EN;RSS feed;Security;Enterprise;Virus Bulletin;https://www.virusbulletin.com/rss
 EN;RSS feed;Security;Enterprise;VirusTotal;https://blog.virustotal.com/feeds/posts/default
-EN;RSS feed;Security;Enterprise;VMware;https://blogs.vmware.com/top-nav/security/feed
+EN;RSS feed;Security;Enterprise;VMware;https://blogs.vmware.com/security/feed
 EN;RSS feed;Security;Enterprise;YesWeHack;https://blog.yeswehack.com/feed/
 EN;RSS feed;Security;Enterprise;Zero Day Initiative;https://www.zerodayinitiative.com/blog/?format=rss
 EN;RSS feed;Security;Enterprise;Zscaler;https://www.zscaler.com/blogs/feeds
@@ -249,8 +251,8 @@ EN;RSS feed;System;Linux;Fedora Magazine;https://fedoramagazine.org/feed/
 EN;RSS feed;System;Linux;Linux Foundation;https://www.linuxfoundation.org/feed/
 EN;RSS feed;System;Linux;Red Hat;https://www.redhat.com/en/rss/blog
 FR;Dataset;Society;Any;Data Gouv;https://www.data.gouv.fr
-FR;MOOC;Dev;Python;FUN-MOOC UCA;https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/
-FR;MOOC;Dev;Python;FUN-MOOC ULB;https://www.fun-mooc.fr/fr/cours/apprendre-a-coder-avec-python/
+FR;MOOC;Dev;Python;UCA Python;https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/
+FR;MOOC;Dev;Python;ULB Python;https://www.fun-mooc.fr/fr/cours/apprendre-a-coder-avec-python/
 FR;RSS feed;Security;CERT;CERT-FR;https://www.cert.ssi.gouv.fr/feed/
 FR;RSS feed;Security;CERT;Cyberveille Santé;https://www.cyberveille-sante.gouv.fr/cyberveille/rss.xml
 FR;RSS feed;Security;Enterprise;Acceis;https://www.acceis.fr/feed/
