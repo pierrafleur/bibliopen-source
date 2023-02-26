@@ -63,21 +63,34 @@ EN;RSS feed;Data;AI;OpenAI;https://openai.com/blog/feed
 EN;RSS feed;Data;AI;TensorFlow;https://blog.tensorflow.org/feeds/posts/default
 EN;RSS feed;Data;Engineering;KDnuggets;https://www.kdnuggets.com/feed/
 EN;RSS feed;Data;Engineering;Towards Data Science;https://towardsdatascience.com/feed
+EN;RSS feed;Dev;Engineering;Atlassian;https://blog.developer.atlassian.com/feed/
+EN;RSS feed;Dev;Engineering;BlackRock;https://medium.com/feed/blackrock-engineering
+EN;RSS feed;Dev;Engineering;Deezer;https://deezer.io/feed
 EN;RSS feed;Dev;Engineering;Dropbox;https://dropbox.tech/feed
+EN;RSS feed;Dev;Engineering;Eventbrite;https://www.eventbrite.com/engineering/feed/
 EN;RSS feed;Dev;Engineering;Google Developer Experts;https://medium.com/feed/google-developer-experts
+EN;RSS feed;Dev;Engineering;LeBonCoin;https://medium.com/feed/leboncoin-engineering-blog
 EN;RSS feed;Dev;Engineering;LinkedIn;https://engineering.linkedin.com/blog.rss.html
+EN;RSS feed;Dev;Engineering;Lyft;https://eng.lyft.com/feed
+EN;RSS feed;Dev;Engineering;Meta;https://code.facebook.com/posts/rss/
 EN;RSS feed;Dev;Engineering;Mozilla;https://hacks.mozilla.org/feed/
 EN;RSS feed;Dev;Engineering;Netflix;https://netflixtechblog.com/feed
+EN;RSS feed;Dev;Engineering;Okta;https://developer.okta.com/feed.xml
 EN;RSS feed;Dev;Engineering;Opensource;https://opensource.com/rss.xml
+EN;RSS feed;Dev;Engineering;Salesforce;https://developer.salesforce.com/blogs/feed
 EN;RSS feed;Dev;Engineering;SEI CMU;https://insights.sei.cmu.edu/blog/feeds/latest/rss/
+EN;RSS feed;Dev;Engineering;Semaphore CI;https://semaphoreci.com/feed
 EN;RSS feed;Dev;Engineering;Shopify;https://shopify.engineering/blog.atom
+EN;RSS feed;Dev;Engineering;Slack;https://slack.engineering/feed
+EN;RSS feed;Dev;Engineering;SoundCloud;https://developers.soundcloud.com/blog/blog.rss
 EN;RSS feed;Dev;Engineering;Spotify;https://engineering.atspotify.com/feed
+EN;RSS feed;Dev;Engineering;Stripe;https://stripe.com/blog/feed.rss
 EN;RSS feed;Dev;Engineering;Twitter;https://blog.twitter.com/engineering/feed
 EN;RSS feed;Dev;Engineering;Uber;https://www.uber.com/blog/engineering/rss
 EN;RSS feed;Dev;Engineering;Zalando;https://engineering.zalando.com/atom.xml
 EN;RSS feed;Dev;Go;Go;https://go.dev/blog/feed.atom
 EN;RSS feed;Dev;Ops;Ansible;https://www.ansible.com/blog/rss.xml
-EN;RSS feed;Dev;Ops;Atlassian;https://www.atlassian.com/blog/devops/feed
+EN;RSS feed;Dev;Ops;Atlassian DevOps;https://www.atlassian.com/blog/devops/feed
 EN;RSS feed;Dev;Ops;AWS DevOps;https://aws.amazon.com/blogs/devops/feed/
 EN;RSS feed;Dev;Ops;Azure DevOps;https://devblogs.microsoft.com/devops/feed/
 EN;RSS feed;Dev;Ops;Datadog;https://www.datadoghq.com/blog/index.xml
@@ -187,6 +200,7 @@ EN;RSS feed;Security;Enterprise;Sensepost;https://sensepost.com/rss.xml
 EN;RSS feed;Security;Enterprise;SentinelLabs;https://labs.sentinelone.com/feed/
 EN;RSS feed;Security;Enterprise;SentinelOne;https://www.sentinelone.com/feed/
 EN;RSS feed;Security;Enterprise;Shodan;https://blog.shodan.io/rss/
+EN;RSS feed;Security;Enterprise;Snyk;https://snyk.io/blog/feed
 EN;RSS feed;Security;Enterprise;Sophos Naked Security;https://nakedsecurity.sophos.com/feed
 EN;RSS feed;Security;Enterprise;SpecterOps;https://posts.specterops.io/feed
 EN;RSS feed;Security;Enterprise;Splunk;https://www.splunk.com/blog/feed/
