@@ -13,8 +13,8 @@ EN;Cheatsheet;Data;AI;Stanford CS 229;https://github.com/afshinea/stanford-cs-22
 EN;Cheatsheet;Data;AI;Stanford CS 230;https://github.com/afshinea/stanford-cs-230-deep-learning
 EN;Cheatsheet;Data;Engineering;MIT 15-003;https://github.com/shervinea/mit-15-003-data-science-tools
 EN;Cheatsheet;Network;Engineering;PacketLife;https://packetlife.net/library/cheat-sheets/
-EN;Cheatsheet;Security;Engineering;SANS Institute;https://www.sans.org/posters/
 EN;Cheatsheet;Security;CERT;CERT-SG;https://github.com/certsocietegenerale/IRM
+EN;Cheatsheet;Security;Engineering;SANS Institute;https://www.sans.org/posters/
 EN;Cheatsheet;Security;Web;OWASP;https://cheatsheetseries.owasp.org/
 EN;CTF;Security;Any;HackTheBox;https://www.hackthebox.com/
 EN;CTF;Security;Any;picoCTF;https://play.picoctf.org/
@@ -89,11 +89,14 @@ EN;RSS feed;Dev;Ops;Grafana;https://grafana.com/blog/index.xml
 EN;RSS feed;Dev;Ops;HashiCorp;https://www.hashicorp.com/blog/feed.xml
 EN;RSS feed;Dev;Ops;Kubernetes;https://kubernetes.io/feed.xml
 EN;RSS feed;Dev;Ops;PagerDuty;https://www.pagerduty.com/blog/feed
+EN;RSS feed;Dev;Ops;Prometheus;https://prometheus.io/blog/feed.xml
+EN;RSS feed;Dev;Ops;Puppet;https://www.puppet.com/blog/feed
 EN;RSS feed;Dev;Ops;Red Hat Developer;https://developers.redhat.com/blog/feed/
 EN;RSS feed;Dev;Python;Jupyter;https://blog.jupyter.org/feed
 EN;RSS feed;Dev;Python;Python;https://blog.python.org/feeds/posts/default
 EN;RSS feed;Dev;Python;Real Python;https://realpython.com/atom.xml
 EN;RSS feed;Dev;Rust;Rust;https://blog.rust-lang.org/feed
+EN;RSS feed;Dev;Web;Google WebDev;https://web.dev/feed.xml
 EN;RSS feed;Dev;YouTube;JupyterCon;https://www.youtube.com/feeds/videos.xml?channel_id=UCk4mxleDfaMqdm5kHISD3qA
 EN;RSS feed;Network;Cloud;AWS Architecture;https://aws.amazon.com/blogs/architecture/feed/
 EN;RSS feed;Network;Cloud;Google Cloud Networking;https://cloudblog.withgoogle.com/products/networking/rss
