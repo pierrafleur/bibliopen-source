@@ -1,6 +1,4 @@
 LANG;TYPE;DOMAIN;SUBDOMAIN;NAME;URL
-EN;Book;Data;AI;Dive into DL;https://github.com/d2l-ai/d2l-en
-EN;Book;Data;AI;MIT Deep Learning;https://www.deeplearningbook.org/
 EN;Book;Dev;Engineering;SWE at Google;https://abseil.io/resources/swe-book
 EN;Book;Dev;Engineering;SWEBOK;https://www.computer.org/education/bodies-of-knowledge/software-engineering
 EN;Book;Dev;Ops;Google SRE;https://sre.google/books/
@@ -36,6 +34,7 @@ EN;MOOC;Data;AI;WUSTL T81-558;https://sites.wustl.edu/jeffheaton/t81-558/
 EN;MOOC;Data;Engineering;Kaggle;https://www.kaggle.com/learn
 EN;MOOC;Dev;Engineering;Google Tech Writing;https://developers.google.com/tech-writing
 EN;MOOC;Dev;Ops;Hashicorp;https://learn.hashicorp.com/
+EN;MOOC;Network;Cloud;Google Cloud Skills Boost;https://www.cloudskillsboost.google
 EN;MOOC;Security;CERT;CIRCL;https://www.circl.lu/services/training/
 EN;MOOC;Security;CERT;ENISA;https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material
 EN;MOOC;Security;CERT;FIRST;https://www.first.org/education/trainings
@@ -158,6 +157,7 @@ EN;RSS feed;Security;Enterprise;Google;https://security.googleblog.com/feeds/pos
 EN;RSS feed;Security;Enterprise;Google Cloud Security;https://cloudblog.withgoogle.com/products/identity-security/rss
 EN;RSS feed;Security;Enterprise;Google Project Zero;https://googleprojectzero.blogspot.com/feeds/posts/default
 EN;RSS feed;Security;Enterprise;Google Threat Analysis Group;https://blog.google/threat-analysis-group/rss
+EN;RSS feed;Security;Enterprise;Graylog;https://www.graylog.org/feed/
 EN;RSS feed;Security;Enterprise;GreyNoise;https://www.greynoise.io/blog/rss.xml
 EN;RSS feed;Security;Enterprise;HackerOne;https://www.hackerone.com/blog.rss
 EN;RSS feed;Security;Enterprise;Hex Rays;https://hex-rays.com/feed/
@@ -172,6 +172,7 @@ EN;RSS feed;Security;Enterprise;Malwarebytes;https://blog.malwarebytes.com/feed/
 EN;RSS feed;Security;Enterprise;Mandiant;https://www.mandiant.com/resources/rss.xml/article_blog
 EN;RSS feed;Security;Enterprise;McAfee;https://www.mcafee.com/blogs/feed/
 EN;RSS feed;Security;Enterprise;Microsoft;https://www.microsoft.com/security/blog/feed/
+EN;RSS feed;Security;Enterprise;Microsoft Security Experts;https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?&board=MicrosoftSecurityExperts
 EN;RSS feed;Security;Enterprise;MITRE ATTACK;https://medium.com/feed/mitre-attack
 EN;RSS feed;Security;Enterprise;MITRE Engage;https://medium.com/feed/mitre-engage
 EN;RSS feed;Security;Enterprise;MITRE Engenuity;https://medium.com/feed/mitre-engenuity
