@@ -106,19 +106,26 @@ EN;RSS feed;Dev;Python;Real Python;https://realpython.com/atom.xml
 EN;RSS feed;Dev;Rust;Rust;https://blog.rust-lang.org/feed
 EN;RSS feed;Dev;YouTube;JupyterCon;https://www.youtube.com/feeds/videos.xml?channel_id=UCk4mxleDfaMqdm5kHISD3qA
 EN;RSS feed;Network;Cloud;AWS Architecture;https://aws.amazon.com/blogs/architecture/feed/
+EN;RSS feed;Network;Cloud;CNCF;https://www.cncf.io/blog/feed
 EN;RSS feed;Network;Cloud;Google Cloud Networking;https://cloudblog.withgoogle.com/products/networking/rss
 EN;RSS feed;Network;Cloud;OVH;https://blog.ovhcloud.com/feed/
-EN;RSS feed;Network;Cloud;CNCF;https://www.cncf.io/blog/feed
 EN;RSS feed;Security;CERT;CERT-BE;https://cert.be/en/rss
 EN;RSS feed;Security;CERT;CERT-CH;https://www.govcert.ch/blog/rss.xml
 EN;RSS feed;Security;CERT;CERT-EU;"https://media.cert.europa.eu/rss?type=category&amp;id=CERT-LatestNews&amp;language=en&amp;duplicates=false"
+EN;RSS feed;Security;CERT;CISA;https://www.cisa.gov/cybersecurity-advisories/all.xml
 EN;RSS feed;Security;CERT;JPCERT;https://www.jpcert.or.jp/english/rss/jpcert-en.rdf
 EN;RSS feed;Security;CERT;MSRC;https://msrc-blog.microsoft.com/feed/
 EN;RSS feed;Security;CERT;NCSC-NL;https://feeds.english.ncsc.nl/news.rss
 EN;RSS feed;Security;CERT;NCSC-UK;https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
 EN;RSS feed;Security;CERT;NVD;https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml
 EN;RSS feed;Security;CERT;NVD Analyzed;https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml
-EN;RSS feed;Security;CERT;CISA;https://www.cisa.gov/cybersecurity-advisories/all.xml
+EN;RSS feed;Security;Institute;CISA Blog;https://www.cisa.gov/cisa/blog.xml
+EN;RSS feed;Security;Institute;CISA News;https://www.cisa.gov/cisa/news.xml
+EN;RSS feed;Security;Institute;ENISA;https://www.enisa.europa.eu/rss.xml
+EN;RSS feed;Security;Institute;JPCERT;https://blogs.jpcert.or.jp/en/atom.xml
+EN;RSS feed;Security;Institute;MIT Cybersecurity;https://news.mit.edu/topic/mitcyber-security-rss.xml
+EN;RSS feed;Security;Institute;NIST;https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
+EN;RSS feed;Security;Institute;WUSTL;https://informationsecurity.wustl.edu/feed/
 EN;RSS feed;Security;Provider;Acunetix;https://www.acunetix.com/blog/feed
 EN;RSS feed;Security;Provider;AlienVault;https://cybersecurity.att.com/site/blog-all-rss
 EN;RSS feed;Security;Provider;Atos;https://atos.net/en/category/security-dive/feed?post_type=lp
@@ -205,13 +212,6 @@ EN;RSS feed;Security;Provider;VirusTotal;https://blog.virustotal.com/feeds/posts
 EN;RSS feed;Security;Provider;VMware;https://blogs.vmware.com/security/feed
 EN;RSS feed;Security;Provider;YesWeHack;https://blog.yeswehack.com/feed/
 EN;RSS feed;Security;Provider;Zero Day Initiative;https://www.zerodayinitiative.com/blog/?format=rss
-EN;RSS feed;Security;Institute;CISA News;https://www.cisa.gov/cisa/news.xml
-EN;RSS feed;Security;Institute;CISA Blog;https://www.cisa.gov/cisa/blog.xml
-EN;RSS feed;Security;Institute;ENISA;https://www.enisa.europa.eu/rss.xml
-EN;RSS feed;Security;Institute;JPCERT;https://blogs.jpcert.or.jp/en/atom.xml
-EN;RSS feed;Security;Institute;MIT Cybersecurity;https://news.mit.edu/topic/mitcyber-security-rss.xml
-EN;RSS feed;Security;Institute;NIST;https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
-EN;RSS feed;Security;Institute;WUSTL;https://informationsecurity.wustl.edu/feed/
 EN;RSS feed;Security;Tool;MISP;https://www.misp-project.org/feed.xml
 EN;RSS feed;Security;Youtube;13Cubed;https://www.youtube.com/feeds/videos.xml?channel_id=UCy8ntxFEudOCRZYT1f7ya9Q
 EN;RSS feed;Security;Youtube;Black Hat;https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg
