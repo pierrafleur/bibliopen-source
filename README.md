@@ -61,15 +61,13 @@
 | EN   | RSS feed   | Data     | AI          | Google AI                     | https://blog.google/technology/ai/rss/                                                                            | 
 | EN   | RSS feed   | Data     | AI          | Microsoft AI                  | https://news.microsoft.com/source/topics/ai/feed/                                                                 | 
 | EN   | RSS feed   | Data     | AI          | MIT AI                        | https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml                                                    | 
-| EN   | RSS feed   | Data     | AI          | OpenAI                        | https://openai.com/blog/feed                                                                                      | 
+| EN   | RSS feed   | Data     | AI          | OpenAI                        | https://openai.com/blog/rss                                                                                       | 
 | EN   | RSS feed   | Data     | AI          | TensorFlow                    | https://blog.tensorflow.org/feeds/posts/default                                                                   | 
 | EN   | RSS feed   | Data     | Engineering | KDnuggets                     | https://www.kdnuggets.com/feed/                                                                                   | 
 | EN   | RSS feed   | Data     | Engineering | Towards Data Science          | https://towardsdatascience.com/feed                                                                               | 
 | EN   | RSS feed   | Dev      | Engineering | Atlassian                     | https://blog.developer.atlassian.com/feed/                                                                        | 
 | EN   | RSS feed   | Dev      | Engineering | BlackRock                     | https://medium.com/feed/blackrock-engineering                                                                     | 
 | EN   | RSS feed   | Dev      | Engineering | Deezer                        | https://deezer.io/feed                                                                                            | 
-| EN   | RSS feed   | Dev      | Engineering | Dropbox                       | https://dropbox.tech/feed                                                                                         | 
-| EN   | RSS feed   | Dev      | Engineering | Eventbrite                    | https://www.eventbrite.com/engineering/feed/                                                                      | 
 | EN   | RSS feed   | Dev      | Engineering | Google Developer Experts      | https://medium.com/feed/google-developer-experts                                                                  | 
 | EN   | RSS feed   | Dev      | Engineering | LeBonCoin                     | https://medium.com/feed/leboncoin-engineering-blog                                                                | 
 | EN   | RSS feed   | Dev      | Engineering | LinkedIn                      | https://engineering.linkedin.com/blog.rss.html                                                                    | 
@@ -87,8 +85,6 @@
 | EN   | RSS feed   | Dev      | Engineering | SoundCloud                    | https://developers.soundcloud.com/blog/blog.rss                                                                   | 
 | EN   | RSS feed   | Dev      | Engineering | Spotify                       | https://engineering.atspotify.com/feed                                                                            | 
 | EN   | RSS feed   | Dev      | Engineering | Stripe                        | https://stripe.com/blog/feed.rss                                                                                  | 
-| EN   | RSS feed   | Dev      | Engineering | Twitter                       | https://blog.twitter.com/engineering/feed                                                                         | 
-| EN   | RSS feed   | Dev      | Engineering | Uber                          | https://www.uber.com/blog/engineering/rss                                                                         | 
 | EN   | RSS feed   | Dev      | Engineering | Zalando                       | https://engineering.zalando.com/atom.xml                                                                          | 
 | EN   | RSS feed   | Dev      | Go          | Go                            | https://go.dev/blog/feed.atom                                                                                     | 
 | EN   | RSS feed   | Dev      | Ops         | Ansible                       | https://www.ansible.com/blog/rss.xml                                                                              | 
@@ -111,11 +107,11 @@
 | EN   | RSS feed   | Dev      | Python      | Python                        | https://blog.python.org/feeds/posts/default                                                                       | 
 | EN   | RSS feed   | Dev      | Python      | Real Python                   | https://realpython.com/atom.xml                                                                                   | 
 | EN   | RSS feed   | Dev      | Rust        | Rust                          | https://blog.rust-lang.org/feed                                                                                   | 
-| EN   | RSS feed   | Dev      | Web         | Google WebDev                 | https://web.dev/feed.xml                                                                                          | 
 | EN   | RSS feed   | Dev      | YouTube     | JupyterCon                    | https://www.youtube.com/feeds/videos.xml?channel_id=UCk4mxleDfaMqdm5kHISD3qA                                      | 
 | EN   | RSS feed   | Network  | Cloud       | AWS Architecture              | https://aws.amazon.com/blogs/architecture/feed/                                                                   | 
 | EN   | RSS feed   | Network  | Cloud       | Google Cloud Networking       | https://cloudblog.withgoogle.com/products/networking/rss                                                          | 
 | EN   | RSS feed   | Network  | Cloud       | OVH                           | https://blog.ovhcloud.com/feed/                                                                                   | 
+| EN   | RSS feed   | Network  | Cloud       | CNCF                          | https://www.cncf.io/blog/feed                                                                                     | 
 | EN   | RSS feed   | Security | CERT        | CERT-BE                       | https://cert.be/en/rss                                                                                            | 
 | EN   | RSS feed   | Security | CERT        | CERT-CH                       | https://www.govcert.ch/blog/rss.xml                                                                               | 
 | EN   | RSS feed   | Security | CERT        | CERT-EU                       | "https://media.cert.europa.eu/rss?type=category&amp;id=CERT-LatestNews&amp;language=en&amp;duplicates=false"      | 
@@ -125,113 +121,100 @@
 | EN   | RSS feed   | Security | CERT        | NCSC-UK                       | https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml                                                        | 
 | EN   | RSS feed   | Security | CERT        | NVD                           | https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml                                                               | 
 | EN   | RSS feed   | Security | CERT        | NVD Analyzed                  | https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml                                                      | 
-| EN   | RSS feed   | Security | CERT        | US-CERT                       | https://us-cert.cisa.gov/ncas/all.xml                                                                             | 
-| EN   | RSS feed   | Security | Enterprise  | Acunetix                      | https://www.acunetix.com/blog/feed                                                                                | 
-| EN   | RSS feed   | Security | Enterprise  | AlienVault                    | https://cybersecurity.att.com/site/blog-all-rss                                                                   | 
-| EN   | RSS feed   | Security | Enterprise  | Atos                          | https://atos.net/en/category/security-dive/feed?post_type=lp                                                      | 
-| EN   | RSS feed   | Security | Enterprise  | AWS                           | https://aws.amazon.com/blogs/security/feed/                                                                       | 
-| EN   | RSS feed   | Security | Enterprise  | Bitdefender                   | https://www.bitdefender.com/blog/api/rss/labs/                                                                    | 
-| EN   | RSS feed   | Security | Enterprise  | Black Hills                   | https://www.blackhillsinfosec.com/feed/                                                                           | 
-| EN   | RSS feed   | Security | Enterprise  | Bugcrowd                      | https://www.bugcrowd.com/feed/                                                                                    | 
-| EN   | RSS feed   | Security | Enterprise  | Check Point                   | https://research.checkpoint.com/feed                                                                              | 
-| EN   | RSS feed   | Security | Enterprise  | CIS                           | https://www.cisecurity.org/feed/blog                                                                              | 
-| EN   | RSS feed   | Security | Enterprise  | Cisco Talos                   | https://blog.talosintelligence.com/feeds/posts/default                                                            | 
-| EN   | RSS feed   | Security | Enterprise  | CompTIA                       | https://www.comptia.org/rssfeeds/comptia-blog                                                                     | 
-| EN   | RSS feed   | Security | Enterprise  | Crowdstrike                   | https://www.crowdstrike.com/blog/feed                                                                             | 
-| EN   | RSS feed   | Security | Enterprise  | CyberArk                      | https://www.cyberark.com/feed/                                                                                    | 
-| EN   | RSS feed   | Security | Enterprise  | Cybereason                    | https://www.cybereason.com/blog/rss.xml                                                                           | 
-| EN   | RSS feed   | Security | Enterprise  | Darktrace                     | https://www.darktrace.com/blog/index.xml                                                                          | 
-| EN   | RSS feed   | Security | Enterprise  | Datadog                       | https://securitylabs.datadoghq.com/rss/feed.xml                                                                   | 
-| EN   | RSS feed   | Security | Enterprise  | Dell Secureworks              | "https://www.secureworks.com/rss?feed=blog&amp;category=research-intelligence"                                    | 
-| EN   | RSS feed   | Security | Enterprise  | DomainTools                   | https://www.domaintools.com/resources/blog/feed/                                                                  | 
-| EN   | RSS feed   | Security | Enterprise  | Dragos                        | https://www.dragos.com/feed                                                                                       | 
-| EN   | RSS feed   | Security | Enterprise  | EC-Council                    | https://blog.eccouncil.org/feed/                                                                                  | 
-| EN   | RSS feed   | Security | Enterprise  | Eset WeLiveSecurity           | https://www.welivesecurity.com/feed                                                                               | 
-| EN   | RSS feed   | Security | Enterprise  | Excellium                     | https://excellium-services.com/feed/                                                                              | 
-| EN   | RSS feed   | Security | Enterprise  | F-Secure                      | https://labs.f-secure.com/blog/rss                                                                                | 
-| EN   | RSS feed   | Security | Enterprise  | F5                            | https://www.f5.com/labs/rss-feeds/all.xml                                                                         | 
-| EN   | RSS feed   | Security | Enterprise  | Facebook                      | https://engineering.fb.com/category/security/feed/                                                                | 
-| EN   | RSS feed   | Security | Enterprise  | FireEye                       | https://www.fireeye.com/blog/feed                                                                                 | 
-| EN   | RSS feed   | Security | Enterprise  | Forcepoint                    | https://www.forcepoint.com/rss.xml                                                                                | 
-| EN   | RSS feed   | Security | Enterprise  | Fortinet                      | https://feeds.fortinet.com/fortinet/blog/threat-research                                                          | 
-| EN   | RSS feed   | Security | Enterprise  | GitHub                        | https://securitylab.github.com/research/feed.xml                                                                  | 
-| EN   | RSS feed   | Security | Enterprise  | GitHub                        | https://github.blog/category/security/feed/                                                                       | 
-| EN   | RSS feed   | Security | Enterprise  | Google                        | https://security.googleblog.com/feeds/posts/default                                                               | 
-| EN   | RSS feed   | Security | Enterprise  | Google Cloud Security         | https://cloudblog.withgoogle.com/products/identity-security/rss                                                   | 
-| EN   | RSS feed   | Security | Enterprise  | Google Project Zero           | https://googleprojectzero.blogspot.com/feeds/posts/default                                                        | 
-| EN   | RSS feed   | Security | Enterprise  | Google Threat Analysis Group  | https://blog.google/threat-analysis-group/rss                                                                     | 
-| EN   | RSS feed   | Security | Enterprise  | Graylog                       | https://www.graylog.org/feed/                                                                                     | 
-| EN   | RSS feed   | Security | Enterprise  | GreyNoise                     | https://www.greynoise.io/blog/rss.xml                                                                             | 
-| EN   | RSS feed   | Security | Enterprise  | HackerOne                     | https://www.hackerone.com/blog.rss                                                                                | 
-| EN   | RSS feed   | Security | Enterprise  | Hex Rays                      | https://hex-rays.com/feed/                                                                                        | 
-| EN   | RSS feed   | Security | Enterprise  | IBM X-Force                   | https://securityintelligence.com/category/x-force/feed                                                            | 
-| EN   | RSS feed   | Security | Enterprise  | Infoblox                      | https://blogs.infoblox.com/category/cyber-threat-intelligence/feed/                                               | 
-| EN   | RSS feed   | Security | Enterprise  | Intigriti                     | https://blog.intigriti.com/feed/                                                                                  | 
-| EN   | RSS feed   | Security | Enterprise  | Juniper                       | https://blogs.juniper.net/security/feed                                                                           | 
-| EN   | RSS feed   | Security | Enterprise  | Kaspersky                     | https://www.kaspersky.com/blog/feed/                                                                              | 
-| EN   | RSS feed   | Security | Enterprise  | Kaspersky Securelist          | https://securelist.com/feed/                                                                                      | 
-| EN   | RSS feed   | Security | Enterprise  | Luatix                        | https://medium.com/feed/luatix                                                                                    | 
-| EN   | RSS feed   | Security | Enterprise  | Malwarebytes                  | https://blog.malwarebytes.com/feed/                                                                               | 
-| EN   | RSS feed   | Security | Enterprise  | Mandiant                      | https://www.mandiant.com/resources/rss.xml/article_blog                                                           | 
-| EN   | RSS feed   | Security | Enterprise  | McAfee                        | https://www.mcafee.com/blogs/feed/                                                                                | 
-| EN   | RSS feed   | Security | Enterprise  | Microsoft                     | https://www.microsoft.com/security/blog/feed/                                                                     | 
-| EN   | RSS feed   | Security | Enterprise  | Microsoft Security Experts    | https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?&board=MicrosoftSecurityExperts | 
-| EN   | RSS feed   | Security | Enterprise  | MITRE ATTACK                  | https://medium.com/feed/mitre-attack                                                                              | 
-| EN   | RSS feed   | Security | Enterprise  | MITRE Engage                  | https://medium.com/feed/mitre-engage                                                                              | 
-| EN   | RSS feed   | Security | Enterprise  | MITRE Engenuity               | https://medium.com/feed/mitre-engenuity                                                                           | 
-| EN   | RSS feed   | Security | Enterprise  | Mozilla                       | https://blog.mozilla.org/security/feed/                                                                           | 
-| EN   | RSS feed   | Security | Enterprise  | NCC Group                     | https://research.nccgroup.com/feed                                                                                | 
-| EN   | RSS feed   | Security | Enterprise  | NVISO                         | https://blog.nviso.eu/feed/                                                                                       | 
-| EN   | RSS feed   | Security | Enterprise  | Offensive Security            | https://www.offensive-security.com/feed/                                                                          | 
-| EN   | RSS feed   | Security | Enterprise  | Packet Storm                  | https://rss.packetstormsecurity.com                                                                               | 
-| EN   | RSS feed   | Security | Enterprise  | Palo Alto                     | https://blog.paloaltonetworks.com/feed/                                                                           | 
-| EN   | RSS feed   | Security | Enterprise  | Palo Alto Unit42              | https://unit42.paloaltonetworks.com/rss                                                                           | 
-| EN   | RSS feed   | Security | Enterprise  | PCI SSC                       | https://blog.pcisecuritystandards.org/rss.xml                                                                     | 
-| EN   | RSS feed   | Security | Enterprise  | PortSwigger                   | https://portswigger.net/blog/rss                                                                                  | 
-| EN   | RSS feed   | Security | Enterprise  | PortSwigger Research          | https://portswigger.net/research/rss                                                                              | 
-| EN   | RSS feed   | Security | Enterprise  | PortSwigger The Daily Swig    | https://portswigger.net/daily-swig/rss                                                                            | 
-| EN   | RSS feed   | Security | Enterprise  | Proofpoint                    | https://www.proofpoint.com/us/rss.xml                                                                             | 
-| EN   | RSS feed   | Security | Enterprise  | Qualys                        | https://blog.qualys.com/feed                                                                                      | 
-| EN   | RSS feed   | Security | Enterprise  | Quarkslab                     | https://blog.quarkslab.com/feeds/all.rss.xml                                                                      | 
-| EN   | RSS feed   | Security | Enterprise  | Rapid7                        | https://blog.rapid7.com/rss/                                                                                      | 
-| EN   | RSS feed   | Security | Enterprise  | Recorded Future               | https://www.recordedfuture.com/feed/                                                                              | 
-| EN   | RSS feed   | Security | Enterprise  | Red Canary                    | https://redcanary.com/feed                                                                                        | 
-| EN   | RSS feed   | Security | Enterprise  | Red Hat                       | https://www.redhat.com/en/rss/blog/channel/security                                                               | 
-| EN   | RSS feed   | Security | Enterprise  | RSA                           | https://www.rsa.com/en-us/blog/rss.xml                                                                            | 
-| EN   | RSS feed   | Security | Enterprise  | SANS ISC                      | https://isc.sans.edu/rssfeed.xml                                                                                  | 
-| EN   | RSS feed   | Security | Enterprise  | Sekoia IO                     | https://www.sekoia.io/en/feed/                                                                                    | 
-| EN   | RSS feed   | Security | Enterprise  | Sensepost                     | https://sensepost.com/rss.xml                                                                                     | 
-| EN   | RSS feed   | Security | Enterprise  | SentinelLabs                  | https://labs.sentinelone.com/feed/                                                                                | 
-| EN   | RSS feed   | Security | Enterprise  | SentinelOne                   | https://www.sentinelone.com/feed/                                                                                 | 
-| EN   | RSS feed   | Security | Enterprise  | Shodan                        | https://blog.shodan.io/rss/                                                                                       | 
-| EN   | RSS feed   | Security | Enterprise  | Snyk                          | https://snyk.io/blog/feed                                                                                         | 
-| EN   | RSS feed   | Security | Enterprise  | Sophos Naked Security         | https://nakedsecurity.sophos.com/feed                                                                             | 
-| EN   | RSS feed   | Security | Enterprise  | SpecterOps                    | https://posts.specterops.io/feed                                                                                  | 
-| EN   | RSS feed   | Security | Enterprise  | Splunk                        | https://www.splunk.com/blog/feed/                                                                                 | 
-| EN   | RSS feed   | Security | Enterprise  | Splunk Research               | https://research.splunk.com/feed.xml                                                                              | 
-| EN   | RSS feed   | Security | Enterprise  | Spotify                       | https://engineering.atspotify.com/category/security/feed                                                          | 
-| EN   | RSS feed   | Security | Enterprise  | Synacktiv                     | https://www.synacktiv.com/feed/lastblog.xml                                                                       | 
-| EN   | RSS feed   | Security | Enterprise  | Tenable                       | https://www.tenable.com/blog/feed                                                                                 | 
-| EN   | RSS feed   | Security | Enterprise  | Thales Cyberthreat            | https://cyberthreat.thalesgroup.com/news/news.xml                                                                 | 
-| EN   | RSS feed   | Security | Enterprise  | The Record by Recorded Future | https://therecord.media/feed/                                                                                     | 
-| EN   | RSS feed   | Security | Enterprise  | ThreatQuotient                | https://www.threatq.com/feed/                                                                                     | 
-| EN   | RSS feed   | Security | Enterprise  | Trail of Bits                 | https://blog.trailofbits.com/feed/                                                                                | 
-| EN   | RSS feed   | Security | Enterprise  | Trend Micro                   | https://feeds.trendmicro.com/TrendMicroResearch                                                                   | 
-| EN   | RSS feed   | Security | Enterprise  | Trustwave                     | https://www.trustwave.com/en-us/rss/trustwave-blog/                                                               | 
-| EN   | RSS feed   | Security | Enterprise  | Trustwave SpiderLabs          | https://www.trustwave.com/en-us/rss/spiderlabs-blog/                                                              | 
-| EN   | RSS feed   | Security | Enterprise  | Varonis                       | https://www.varonis.com/blog/feed/                                                                                | 
-| EN   | RSS feed   | Security | Enterprise  | Virus Bulletin                | https://www.virusbulletin.com/rss                                                                                 | 
-| EN   | RSS feed   | Security | Enterprise  | VirusTotal                    | https://blog.virustotal.com/feeds/posts/default                                                                   | 
-| EN   | RSS feed   | Security | Enterprise  | VMware                        | https://blogs.vmware.com/security/feed                                                                            | 
-| EN   | RSS feed   | Security | Enterprise  | YesWeHack                     | https://blog.yeswehack.com/feed/                                                                                  | 
-| EN   | RSS feed   | Security | Enterprise  | Zero Day Initiative           | https://www.zerodayinitiative.com/blog/?format=rss                                                                | 
-| EN   | RSS feed   | Security | Enterprise  | Zscaler                       | https://www.zscaler.com/blogs/feeds                                                                               | 
-| EN   | RSS feed   | Security | Government  | CISA                          | https://www.cisa.gov/cisa/news.xml                                                                                | 
-| EN   | RSS feed   | Security | Government  | ENISA                         | https://www.enisa.europa.eu/rss.xml                                                                               | 
-| EN   | RSS feed   | Security | Government  | JPCERT                        | https://blogs.jpcert.or.jp/en/atom.xml                                                                            | 
-| EN   | RSS feed   | Security | Government  | MIT Cybersecurity             | https://news.mit.edu/topic/mitcyber-security-rss.xml                                                              | 
-| EN   | RSS feed   | Security | Government  | NIST                          | https://www.nist.gov/blogs/cybersecurity-insights/rss.xml                                                         | 
-| EN   | RSS feed   | Security | Government  | WUSTL                         | https://informationsecurity.wustl.edu/feed/                                                                       | 
+| EN   | RSS feed   | Security | CERT        | CISA                          | https://www.cisa.gov/cybersecurity-advisories/all.xml                                                             | 
+| EN   | RSS feed   | Security | Provider    | Acunetix                      | https://www.acunetix.com/blog/feed                                                                                | 
+| EN   | RSS feed   | Security | Provider    | AlienVault                    | https://cybersecurity.att.com/site/blog-all-rss                                                                   | 
+| EN   | RSS feed   | Security | Provider    | Atos                          | https://atos.net/en/category/security-dive/feed?post_type=lp                                                      | 
+| EN   | RSS feed   | Security | Provider    | AWS                           | https://aws.amazon.com/blogs/security/feed/                                                                       | 
+| EN   | RSS feed   | Security | Provider    | Bitdefender                   | https://www.bitdefender.com/blog/api/rss/labs/                                                                    | 
+| EN   | RSS feed   | Security | Provider    | Black Hills                   | https://www.blackhillsinfosec.com/feed/                                                                           | 
+| EN   | RSS feed   | Security | Provider    | Check Point                   | https://research.checkpoint.com/feed                                                                              | 
+| EN   | RSS feed   | Security | Provider    | CIS                           | https://www.cisecurity.org/feed/blog                                                                              | 
+| EN   | RSS feed   | Security | Provider    | Cisco Talos                   | https://blog.talosintelligence.com/feed                                                                           | 
+| EN   | RSS feed   | Security | Provider    | CompTIA                       | https://www.comptia.org/rssfeeds/comptia-blog                                                                     | 
+| EN   | RSS feed   | Security | Provider    | Crowdstrike                   | https://www.crowdstrike.com/blog/feed                                                                             | 
+| EN   | RSS feed   | Security | Provider    | CyberArk                      | https://www.cyberark.com/feed/                                                                                    | 
+| EN   | RSS feed   | Security | Provider    | Cybereason                    | https://www.cybereason.com/blog/rss.xml                                                                           | 
+| EN   | RSS feed   | Security | Provider    | Darktrace                     | https://www.darktrace.com/blog/index.xml                                                                          | 
+| EN   | RSS feed   | Security | Provider    | Datadog                       | https://securitylabs.datadoghq.com/rss/feed.xml                                                                   | 
+| EN   | RSS feed   | Security | Provider    | DomainTools                   | https://www.domaintools.com/resources/blog/feed/                                                                  | 
+| EN   | RSS feed   | Security | Provider    | Dragos                        | https://www.dragos.com/feed                                                                                       | 
+| EN   | RSS feed   | Security | Provider    | Eset WeLiveSecurity           | https://www.welivesecurity.com/feed                                                                               | 
+| EN   | RSS feed   | Security | Provider    | Excellium                     | https://excellium-services.com/feed/                                                                              | 
+| EN   | RSS feed   | Security | Provider    | F5                            | https://www.f5.com/labs/rss-feeds/all.xml                                                                         | 
+| EN   | RSS feed   | Security | Provider    | Facebook                      | https://engineering.fb.com/category/security/feed/                                                                | 
+| EN   | RSS feed   | Security | Provider    | Forcepoint                    | https://www.forcepoint.com/rss.xml                                                                                | 
+| EN   | RSS feed   | Security | Provider    | Fortinet                      | https://feeds.fortinet.com/fortinet/blog/threat-research                                                          | 
+| EN   | RSS feed   | Security | Provider    | GitHub                        | https://securitylab.github.com/research/feed.xml                                                                  | 
+| EN   | RSS feed   | Security | Provider    | GitHub                        | https://github.blog/category/security/feed/                                                                       | 
+| EN   | RSS feed   | Security | Provider    | Google                        | https://security.googleblog.com/feeds/posts/default                                                               | 
+| EN   | RSS feed   | Security | Provider    | Google Cloud Security         | https://cloudblog.withgoogle.com/products/identity-security/rss                                                   | 
+| EN   | RSS feed   | Security | Provider    | Google Project Zero           | https://googleprojectzero.blogspot.com/feeds/posts/default                                                        | 
+| EN   | RSS feed   | Security | Provider    | Google Threat Analysis Group  | https://blog.google/threat-analysis-group/rss                                                                     | 
+| EN   | RSS feed   | Security | Provider    | Graylog                       | https://www.graylog.org/feed/                                                                                     | 
+| EN   | RSS feed   | Security | Provider    | GreyNoise                     | https://www.greynoise.io/blog/rss.xml                                                                             | 
+| EN   | RSS feed   | Security | Provider    | HackerOne                     | https://www.hackerone.com/blog.rss                                                                                | 
+| EN   | RSS feed   | Security | Provider    | Hex Rays                      | https://hex-rays.com/feed/                                                                                        | 
+| EN   | RSS feed   | Security | Provider    | IBM X-Force                   | https://securityintelligence.com/category/x-force/feed                                                            | 
+| EN   | RSS feed   | Security | Provider    | Infoblox                      | https://blogs.infoblox.com/category/cyber-threat-intelligence/feed/                                               | 
+| EN   | RSS feed   | Security | Provider    | Intigriti                     | https://blog.intigriti.com/feed/                                                                                  | 
+| EN   | RSS feed   | Security | Provider    | Juniper                       | https://blogs.juniper.net/security/feed                                                                           | 
+| EN   | RSS feed   | Security | Provider    | Kaspersky                     | https://www.kaspersky.com/blog/feed/                                                                              | 
+| EN   | RSS feed   | Security | Provider    | Kaspersky Securelist          | https://securelist.com/feed/                                                                                      | 
+| EN   | RSS feed   | Security | Provider    | Malwarebytes                  | https://blog.malwarebytes.com/feed/                                                                               | 
+| EN   | RSS feed   | Security | Provider    | Mandiant                      | https://www.mandiant.com/resources/blog/rss.xml                                                                   | 
+| EN   | RSS feed   | Security | Provider    | McAfee                        | https://www.mcafee.com/blogs/feed/                                                                                | 
+| EN   | RSS feed   | Security | Provider    | Microsoft                     | https://www.microsoft.com/security/blog/feed/                                                                     | 
+| EN   | RSS feed   | Security | Provider    | Microsoft Security Experts    | https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?&board=MicrosoftSecurityExperts | 
+| EN   | RSS feed   | Security | Provider    | MITRE ATTACK                  | https://medium.com/feed/mitre-attack                                                                              | 
+| EN   | RSS feed   | Security | Provider    | MITRE Engage                  | https://medium.com/feed/mitre-engage                                                                              | 
+| EN   | RSS feed   | Security | Provider    | MITRE Engenuity               | https://medium.com/feed/mitre-engenuity                                                                           | 
+| EN   | RSS feed   | Security | Provider    | Mozilla                       | https://blog.mozilla.org/security/feed/                                                                           | 
+| EN   | RSS feed   | Security | Provider    | NCC Group                     | https://research.nccgroup.com/feed/                                                                               | 
+| EN   | RSS feed   | Security | Provider    | NVISO                         | https://blog.nviso.eu/feed/                                                                                       | 
+| EN   | RSS feed   | Security | Provider    | Offensive Security            | https://www.offensive-security.com/feed/                                                                          | 
+| EN   | RSS feed   | Security | Provider    | Palo Alto                     | https://blog.paloaltonetworks.com/feed/                                                                           | 
+| EN   | RSS feed   | Security | Provider    | Palo Alto Unit42              | https://unit42.paloaltonetworks.com/rss                                                                           | 
+| EN   | RSS feed   | Security | Provider    | PCI SSC                       | https://blog.pcisecuritystandards.org/rss.xml                                                                     | 
+| EN   | RSS feed   | Security | Provider    | PortSwigger                   | https://portswigger.net/blog/rss                                                                                  | 
+| EN   | RSS feed   | Security | Provider    | PortSwigger Research          | https://portswigger.net/research/rss                                                                              | 
+| EN   | RSS feed   | Security | Provider    | PortSwigger The Daily Swig    | https://portswigger.net/daily-swig/rss                                                                            | 
+| EN   | RSS feed   | Security | Provider    | Proofpoint                    | https://www.proofpoint.com/us/rss.xml                                                                             | 
+| EN   | RSS feed   | Security | Provider    | Qualys                        | https://blog.qualys.com/feed                                                                                      | 
+| EN   | RSS feed   | Security | Provider    | Quarkslab                     | https://blog.quarkslab.com/feeds/all.rss.xml                                                                      | 
+| EN   | RSS feed   | Security | Provider    | Rapid7                        | https://blog.rapid7.com/rss/                                                                                      | 
+| EN   | RSS feed   | Security | Provider    | Recorded Future               | https://www.recordedfuture.com/feed/                                                                              | 
+| EN   | RSS feed   | Security | Provider    | Red Canary                    | https://redcanary.com/feed                                                                                        | 
+| EN   | RSS feed   | Security | Provider    | Red Hat                       | https://www.redhat.com/en/rss/blog/channel/security                                                               | 
+| EN   | RSS feed   | Security | Provider    | SANS ISC                      | https://isc.sans.edu/rssfeed.xml                                                                                  | 
+| EN   | RSS feed   | Security | Provider    | Sekoia IO                     | https://www.sekoia.io/en/feed/                                                                                    | 
+| EN   | RSS feed   | Security | Provider    | Sensepost                     | https://sensepost.com/rss.xml                                                                                     | 
+| EN   | RSS feed   | Security | Provider    | SentinelOne                   | https://www.sentinelone.com/feed/                                                                                 | 
+| EN   | RSS feed   | Security | Provider    | Shodan                        | https://blog.shodan.io/rss/                                                                                       | 
+| EN   | RSS feed   | Security | Provider    | Snyk                          | https://snyk.io/blog/feed                                                                                         | 
+| EN   | RSS feed   | Security | Provider    | Sophos Naked Security         | https://nakedsecurity.sophos.com/feed                                                                             | 
+| EN   | RSS feed   | Security | Provider    | SpecterOps                    | https://posts.specterops.io/feed                                                                                  | 
+| EN   | RSS feed   | Security | Provider    | Splunk                        | https://www.splunk.com/blog/feed/                                                                                 | 
+| EN   | RSS feed   | Security | Provider    | Splunk Research               | https://research.splunk.com/feed.xml                                                                              | 
+| EN   | RSS feed   | Security | Provider    | Spotify                       | https://engineering.atspotify.com/category/security/feed                                                          | 
+| EN   | RSS feed   | Security | Provider    | Tenable                       | https://www.tenable.com/blog/feed                                                                                 | 
+| EN   | RSS feed   | Security | Provider    | The Record by Recorded Future | https://therecord.media/feed/                                                                                     | 
+| EN   | RSS feed   | Security | Provider    | ThreatQuotient                | https://www.threatq.com/feed/                                                                                     | 
+| EN   | RSS feed   | Security | Provider    | Trail of Bits                 | https://blog.trailofbits.com/feed/                                                                                | 
+| EN   | RSS feed   | Security | Provider    | Trend Micro                   | https://feeds.trendmicro.com/TrendMicroResearch                                                                   | 
+| EN   | RSS feed   | Security | Provider    | Varonis                       | https://www.varonis.com/blog/feed/                                                                                | 
+| EN   | RSS feed   | Security | Provider    | Virus Bulletin                | https://www.virusbulletin.com/rss                                                                                 | 
+| EN   | RSS feed   | Security | Provider    | VirusTotal                    | https://blog.virustotal.com/feeds/posts/default                                                                   | 
+| EN   | RSS feed   | Security | Provider    | VMware                        | https://blogs.vmware.com/security/feed                                                                            | 
+| EN   | RSS feed   | Security | Provider    | YesWeHack                     | https://blog.yeswehack.com/feed/                                                                                  | 
+| EN   | RSS feed   | Security | Provider    | Zero Day Initiative           | https://www.zerodayinitiative.com/blog/?format=rss                                                                | 
+| EN   | RSS feed   | Security | Institute   | CISA News                     | https://www.cisa.gov/cisa/news.xml                                                                                | 
+| EN   | RSS feed   | Security | Institute   | CISA Blog                     | https://www.cisa.gov/cisa/blog.xml                                                                                | 
+| EN   | RSS feed   | Security | Institute   | ENISA                         | https://www.enisa.europa.eu/rss.xml                                                                               | 
+| EN   | RSS feed   | Security | Institute   | JPCERT                        | https://blogs.jpcert.or.jp/en/atom.xml                                                                            | 
+| EN   | RSS feed   | Security | Institute   | MIT Cybersecurity             | https://news.mit.edu/topic/mitcyber-security-rss.xml                                                              | 
+| EN   | RSS feed   | Security | Institute   | NIST                          | https://www.nist.gov/blogs/cybersecurity-insights/rss.xml                                                         | 
+| EN   | RSS feed   | Security | Institute   | WUSTL                         | https://informationsecurity.wustl.edu/feed/                                                                       | 
 | EN   | RSS feed   | Security | Tool        | MISP                          | https://www.misp-project.org/feed.xml                                                                             | 
 | EN   | RSS feed   | Security | Youtube     | 13Cubed                       | https://www.youtube.com/feeds/videos.xml?channel_id=UCy8ntxFEudOCRZYT1f7ya9Q                                      | 
 | EN   | RSS feed   | Security | Youtube     | Black Hat                     | https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg                                      | 
@@ -269,7 +252,7 @@
 | EN   | RSS feed   | System   | Linux       | Distrowatch                   | https://distrowatch.com/news/dw.xml                                                                               | 
 | EN   | RSS feed   | System   | Linux       | Enable Sysadmin               | https://www.redhat.com/sysadmin/rss.xml                                                                           | 
 | EN   | RSS feed   | System   | Linux       | Fedora Magazine               | https://fedoramagazine.org/feed/                                                                                  | 
-| EN   | RSS feed   | System   | Linux       | Linux Foundation              | https://www.linuxfoundation.org/feed/                                                                             | 
+| EN   | RSS feed   | System   | Linux       | Linux Foundation              | https://www.linuxfoundation.org/blog/rss.xml                                                                      | 
 | EN   | RSS feed   | System   | Linux       | Red Hat                       | https://www.redhat.com/en/rss/blog                                                                                | 
 | FR   | Dataset    | Society  | Any         | Data Gouv                     | https://www.data.gouv.fr                                                                                          | 
 | FR   | MOOC       | Dev      | Python      | UCA Python                    | https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/                       | 
@@ -277,16 +260,12 @@
 | FR   | RSS feed   | Security | CERT        | CERT-FR                       | https://www.cert.ssi.gouv.fr/feed/                                                                                | 
 | FR   | RSS feed   | Security | CERT        | Cyberveille Santé             | https://www.cyberveille-sante.gouv.fr/cyberveille/rss.xml                                                         | 
 | FR   | RSS feed   | Security | Enterprise  | Acceis                        | https://www.acceis.fr/feed/                                                                                       | 
-| FR   | RSS feed   | Security | Enterprise  | Amossys                       | https://blog.amossys.fr/feeds/all.rss.xml                                                                         | 
-| FR   | RSS feed   | Security | Enterprise  | BSSI                          | https://blog.bssi.fr/feed/                                                                                        | 
 | FR   | RSS feed   | Security | Enterprise  | Intrinsec                     | https://www.intrinsec.com/blog/feed                                                                               | 
-| FR   | RSS feed   | Security | Enterprise  | OCD                           | https://orangecyberdefense.com/fr/feed                                                                            | 
-| FR   | RSS feed   | Security | Enterprise  | Sekoia                        | https://medium.com/feed/@Sekoia_team                                                                              | 
 | FR   | RSS feed   | Security | Enterprise  | Stormshield                   | https://www.stormshield.com/fr/feed/                                                                              | 
 | FR   | RSS feed   | Security | Enterprise  | Synetis                       | https://www.synetis.com/feed/                                                                                     | 
-| FR   | RSS feed   | Security | Enterprise  | XMCO                          | https://blog.xmco.fr/feed.rss                                                                                     | 
-| FR   | RSS feed   | Security | Government  | ANSSI                         | https://www.ssi.gouv.fr/feed/actualite/                                                                           | 
-| FR   | RSS feed   | Security | Government  | CNIL                          | https://www.cnil.fr/fr/rss.xml                                                                                    | 
+| FR   | RSS feed   | Security | Enterprise  | XMCO                          | https://www.xmco.fr/feed/                                                                                         | 
+| FR   | RSS feed   | Security | Institute   | ANSSI                         | https://cyber.gouv.fr/actualites/feed                                                                             | 
+| FR   | RSS feed   | Security | Institute   | CNIL                          | https://www.cnil.fr/fr/rss.xml                                                                                    | 
 | FR   | RSS feed   | Security | Youtube     | AEGE                          | https://www.youtube.com/feeds/videos.xml?channel_id=UCbIfUl3QPj35cT7za0iFDxQ                                      | 
 | FR   | RSS feed   | Security | Youtube     | Hack-It-N                     | https://www.youtube.com/feeds/videos.xml?channel_id=UC97prj7oI1Lhf9j1NYLcoKA                                      | 
 | FR   | RSS feed   | Security | Youtube     | Hack2G2                       | https://www.youtube.com/feeds/videos.xml?channel_id=UCqJt_ViIsIBNk7OLhEm_bZA                                      | 
