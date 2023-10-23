@@ -14,8 +14,8 @@
 | EN   | Cheatsheet | Data     | AI          | Stanford CS 230               | https://github.com/afshinea/stanford-cs-230-deep-learning                                                         | 
 | EN   | Cheatsheet | Data     | Engineering | MIT 15-003                    | https://github.com/shervinea/mit-15-003-data-science-tools                                                        | 
 | EN   | Cheatsheet | Network  | Engineering | PacketLife                    | https://packetlife.net/library/cheat-sheets/                                                                      | 
+| EN   | Cheatsheet | Security | Any         | SANS Institute                | https://www.sans.org/posters/                                                                                     | 
 | EN   | Cheatsheet | Security | CERT        | CERT-SG                       | https://github.com/certsocietegenerale/IRM                                                                        | 
-| EN   | Cheatsheet | Security | Engineering | SANS Institute                | https://www.sans.org/posters/                                                                                     | 
 | EN   | Cheatsheet | Security | Web         | OWASP                         | https://cheatsheetseries.owasp.org/                                                                               | 
 | EN   | CTF        | Security | Any         | HackTheBox                    | https://www.hackthebox.com/                                                                                       | 
 | EN   | CTF        | Security | Any         | picoCTF                       | https://play.picoctf.org/                                                                                         | 
@@ -122,12 +122,17 @@
 | EN   | RSS feed   | Security | CERT        | NCSC-UK                       | https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml                                                        | 
 | EN   | RSS feed   | Security | CERT        | NVD                           | https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml                                                               | 
 | EN   | RSS feed   | Security | CERT        | NVD Analyzed                  | https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml                                                      | 
+| EN   | RSS feed   | Security | Institute   | CIS                           | https://www.cisecurity.org/feed/blog                                                                              | 
 | EN   | RSS feed   | Security | Institute   | CISA Blog                     | https://www.cisa.gov/cisa/blog.xml                                                                                | 
 | EN   | RSS feed   | Security | Institute   | CISA News                     | https://www.cisa.gov/cisa/news.xml                                                                                | 
 | EN   | RSS feed   | Security | Institute   | ENISA                         | https://www.enisa.europa.eu/rss.xml                                                                               | 
 | EN   | RSS feed   | Security | Institute   | JPCERT                        | https://blogs.jpcert.or.jp/en/atom.xml                                                                            | 
 | EN   | RSS feed   | Security | Institute   | MIT Cybersecurity             | https://news.mit.edu/topic/mitcyber-security-rss.xml                                                              | 
+| EN   | RSS feed   | Security | Institute   | MITRE ATTACK                  | https://medium.com/feed/mitre-attack                                                                              | 
+| EN   | RSS feed   | Security | Institute   | MITRE Engage                  | https://medium.com/feed/mitre-engage                                                                              | 
+| EN   | RSS feed   | Security | Institute   | MITRE Engenuity               | https://medium.com/feed/mitre-engenuity                                                                           | 
 | EN   | RSS feed   | Security | Institute   | NIST                          | https://www.nist.gov/blogs/cybersecurity-insights/rss.xml                                                         | 
+| EN   | RSS feed   | Security | Institute   | PCI SSC                       | https://blog.pcisecuritystandards.org/rss.xml                                                                     | 
 | EN   | RSS feed   | Security | Institute   | WUSTL                         | https://informationsecurity.wustl.edu/feed/                                                                       | 
 | EN   | RSS feed   | Security | Provider    | Acunetix                      | https://www.acunetix.com/blog/feed                                                                                | 
 | EN   | RSS feed   | Security | Provider    | AlienVault                    | https://cybersecurity.att.com/site/blog-all-rss                                                                   | 
@@ -136,7 +141,6 @@
 | EN   | RSS feed   | Security | Provider    | Bitdefender                   | https://www.bitdefender.com/blog/api/rss/labs/                                                                    | 
 | EN   | RSS feed   | Security | Provider    | Black Hills                   | https://www.blackhillsinfosec.com/feed/                                                                           | 
 | EN   | RSS feed   | Security | Provider    | Check Point                   | https://research.checkpoint.com/feed                                                                              | 
-| EN   | RSS feed   | Security | Provider    | CIS                           | https://www.cisecurity.org/feed/blog                                                                              | 
 | EN   | RSS feed   | Security | Provider    | Cisco Talos                   | https://blog.talosintelligence.com/feed                                                                           | 
 | EN   | RSS feed   | Security | Provider    | CompTIA                       | https://www.comptia.org/rssfeeds/comptia-blog                                                                     | 
 | EN   | RSS feed   | Security | Provider    | Crowdstrike                   | https://www.crowdstrike.com/blog/feed                                                                             | 
@@ -173,16 +177,12 @@
 | EN   | RSS feed   | Security | Provider    | McAfee                        | https://www.mcafee.com/blogs/feed/                                                                                | 
 | EN   | RSS feed   | Security | Provider    | Microsoft                     | https://www.microsoft.com/security/blog/feed/                                                                     | 
 | EN   | RSS feed   | Security | Provider    | Microsoft Security Experts    | https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?&board=MicrosoftSecurityExperts | 
-| EN   | RSS feed   | Security | Provider    | MITRE ATTACK                  | https://medium.com/feed/mitre-attack                                                                              | 
-| EN   | RSS feed   | Security | Provider    | MITRE Engage                  | https://medium.com/feed/mitre-engage                                                                              | 
-| EN   | RSS feed   | Security | Provider    | MITRE Engenuity               | https://medium.com/feed/mitre-engenuity                                                                           | 
 | EN   | RSS feed   | Security | Provider    | Mozilla                       | https://blog.mozilla.org/security/feed/                                                                           | 
 | EN   | RSS feed   | Security | Provider    | NCC Group                     | https://research.nccgroup.com/feed/                                                                               | 
 | EN   | RSS feed   | Security | Provider    | NVISO                         | https://blog.nviso.eu/feed/                                                                                       | 
 | EN   | RSS feed   | Security | Provider    | Offensive Security            | https://www.offensive-security.com/feed/                                                                          | 
 | EN   | RSS feed   | Security | Provider    | Palo Alto                     | https://blog.paloaltonetworks.com/feed/                                                                           | 
 | EN   | RSS feed   | Security | Provider    | Palo Alto Unit42              | https://unit42.paloaltonetworks.com/rss                                                                           | 
-| EN   | RSS feed   | Security | Provider    | PCI SSC                       | https://blog.pcisecuritystandards.org/rss.xml                                                                     | 
 | EN   | RSS feed   | Security | Provider    | PortSwigger                   | https://portswigger.net/blog/rss                                                                                  | 
 | EN   | RSS feed   | Security | Provider    | PortSwigger Research          | https://portswigger.net/research/rss                                                                              | 
 | EN   | RSS feed   | Security | Provider    | PortSwigger The Daily Swig    | https://portswigger.net/daily-swig/rss                                                                            | 
@@ -259,13 +259,13 @@
 | FR   | MOOC       | Dev      | Python      | ULB Python                    | https://www.fun-mooc.fr/fr/cours/apprendre-a-coder-avec-python/                                                   | 
 | FR   | RSS feed   | Security | CERT        | CERT-FR                       | https://www.cert.ssi.gouv.fr/feed/                                                                                | 
 | FR   | RSS feed   | Security | CERT        | Cyberveille Santé             | https://www.cyberveille-sante.gouv.fr/cyberveille/rss.xml                                                         | 
-| FR   | RSS feed   | Security | Enterprise  | Acceis                        | https://www.acceis.fr/feed/                                                                                       | 
-| FR   | RSS feed   | Security | Enterprise  | Intrinsec                     | https://www.intrinsec.com/blog/feed                                                                               | 
-| FR   | RSS feed   | Security | Enterprise  | Stormshield                   | https://www.stormshield.com/fr/feed/                                                                              | 
-| FR   | RSS feed   | Security | Enterprise  | Synetis                       | https://www.synetis.com/feed/                                                                                     | 
-| FR   | RSS feed   | Security | Enterprise  | XMCO                          | https://www.xmco.fr/feed/                                                                                         | 
 | FR   | RSS feed   | Security | Institute   | ANSSI                         | https://cyber.gouv.fr/actualites/feed                                                                             | 
 | FR   | RSS feed   | Security | Institute   | CNIL                          | https://www.cnil.fr/fr/rss.xml                                                                                    | 
+| FR   | RSS feed   | Security | Provider    | Acceis                        | https://www.acceis.fr/feed/                                                                                       | 
+| FR   | RSS feed   | Security | Provider    | Intrinsec                     | https://www.intrinsec.com/blog/feed                                                                               | 
+| FR   | RSS feed   | Security | Provider    | Stormshield                   | https://www.stormshield.com/fr/feed/                                                                              | 
+| FR   | RSS feed   | Security | Provider    | Synetis                       | https://www.synetis.com/feed/                                                                                     | 
+| FR   | RSS feed   | Security | Provider    | XMCO                          | https://www.xmco.fr/feed/                                                                                         | 
 | FR   | RSS feed   | Security | Youtube     | AEGE                          | https://www.youtube.com/feeds/videos.xml?channel_id=UCbIfUl3QPj35cT7za0iFDxQ                                      | 
 | FR   | RSS feed   | Security | Youtube     | Hack-It-N                     | https://www.youtube.com/feeds/videos.xml?channel_id=UC97prj7oI1Lhf9j1NYLcoKA                                      | 
 | FR   | RSS feed   | Security | Youtube     | Hack2G2                       | https://www.youtube.com/feeds/videos.xml?channel_id=UCqJt_ViIsIBNk7OLhEm_bZA                                      | 
