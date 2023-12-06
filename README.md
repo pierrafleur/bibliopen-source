@@ -17,6 +17,7 @@
 | EN   | Cheatsheet | Security | Any         | SANS Institute                | https://www.sans.org/posters/                                                                                     | 
 | EN   | Cheatsheet | Security | CERT        | CERT-SG                       | https://github.com/certsocietegenerale/IRM                                                                        | 
 | EN   | Cheatsheet | Security | Web         | OWASP                         | https://cheatsheetseries.owasp.org/                                                                               | 
+| EN   | CTF        | Security | Any         | Hackropole                    | https://hackropole.fr                                                                                             | 
 | EN   | CTF        | Security | Any         | HackTheBox                    | https://www.hackthebox.com/                                                                                       | 
 | EN   | CTF        | Security | Any         | picoCTF                       | https://play.picoctf.org/                                                                                         | 
 | EN   | CTF        | Security | Any         | Root-Me                       | https://www.root-me.org/                                                                                          | 
@@ -65,8 +66,10 @@
 | EN   | RSS feed   | Data     | AI          | TensorFlow                    | https://blog.tensorflow.org/feeds/posts/default                                                                   | 
 | EN   | RSS feed   | Data     | Engineering | KDnuggets                     | https://www.kdnuggets.com/feed/                                                                                   | 
 | EN   | RSS feed   | Data     | Engineering | Towards Data Science          | https://towardsdatascience.com/feed                                                                               | 
+| EN   | RSS feed   | Dev      | Engineering | Adyen                         | https://medium.com/feed/adyen                                                                                     | 
 | EN   | RSS feed   | Dev      | Engineering | Atlassian                     | https://blog.developer.atlassian.com/feed/                                                                        | 
 | EN   | RSS feed   | Dev      | Engineering | BlackRock                     | https://medium.com/feed/blackrock-engineering                                                                     | 
+| EN   | RSS feed   | Dev      | Engineering | Criteo                        | https://medium.com/feed/criteo-engineering                                                                        | 
 | EN   | RSS feed   | Dev      | Engineering | Deezer                        | https://deezer.io/feed                                                                                            | 
 | EN   | RSS feed   | Dev      | Engineering | Google Developer Experts      | https://medium.com/feed/google-developer-experts                                                                  | 
 | EN   | RSS feed   | Dev      | Engineering | LeBonCoin                     | https://medium.com/feed/leboncoin-engineering-blog                                                                | 
@@ -111,6 +114,7 @@
 | EN   | RSS feed   | Network  | Cloud       | AWS Architecture              | https://aws.amazon.com/blogs/architecture/feed/                                                                   | 
 | EN   | RSS feed   | Network  | Cloud       | CNCF                          | https://www.cncf.io/blog/feed                                                                                     | 
 | EN   | RSS feed   | Network  | Cloud       | Google Cloud Networking       | https://cloudblog.withgoogle.com/products/networking/rss                                                          | 
+| EN   | RSS feed   | Network  | Cloud       | OpenShift                     | https://cloud.redhat.com/blog/rss.xml                                                                             | 
 | EN   | RSS feed   | Network  | Cloud       | OVH                           | https://blog.ovhcloud.com/feed/                                                                                   | 
 | EN   | RSS feed   | Security | CERT        | CERT-BE                       | https://cert.be/en/rss                                                                                            | 
 | EN   | RSS feed   | Security | CERT        | CERT-CH                       | https://www.govcert.ch/blog/rss.xml                                                                               | 
@@ -174,6 +178,7 @@
 | EN   | RSS feed   | Security | Vendor      | Juniper                       | https://blogs.juniper.net/security/feed                                                                           | 
 | EN   | RSS feed   | Security | Vendor      | Kaspersky                     | https://www.kaspersky.com/blog/feed/                                                                              | 
 | EN   | RSS feed   | Security | Vendor      | Kaspersky Securelist          | https://securelist.com/feed/                                                                                      | 
+| EN   | RSS feed   | Security | Vendor      | Kudelski Security             | https://research.kudelskisecurity.com/feed/                                                                       | 
 | EN   | RSS feed   | Security | Vendor      | Malwarebytes                  | https://blog.malwarebytes.com/feed/                                                                               | 
 | EN   | RSS feed   | Security | Vendor      | Mandiant                      | https://www.mandiant.com/resources/blog/rss.xml                                                                   | 
 | EN   | RSS feed   | Security | Vendor      | McAfee                        | https://www.mcafee.com/blogs/feed/                                                                                | 
@@ -225,6 +230,7 @@
 | EN   | RSS feed   | Security | Youtube     | CCDCOE                        | https://www.youtube.com/feeds/videos.xml?channel_id=UCkhMrooxbUEA0PklayujbgA                                      | 
 | EN   | RSS feed   | Security | Youtube     | Codingo                       | https://www.youtube.com/feeds/videos.xml?channel_id=UCUfO02gdMDXgOJWdv_jiLMg                                      | 
 | EN   | RSS feed   | Security | Youtube     | DefCon                        | https://www.youtube.com/feeds/videos.xml?channel_id=UC6Om9kAkl32dWlDSNlDS9Iw                                      | 
+| EN   | RSS feed   | Security | Youtube     | DEFCON Paris                  | https://www.youtube.com/feeds/videos.xml?channel_id=UC7oKPsCmNvrxsJ21BZ-7o6A                                      | 
 | EN   | RSS feed   | Security | Youtube     | FIRST                         | https://www.youtube.com/feeds/videos.xml?channel_id=UCK3_z6YyWvfqrOuCmrfxsTw                                      | 
 | EN   | RSS feed   | Security | Youtube     | GreHack                       | https://www.youtube.com/feeds/videos.xml?channel_id=UCXpdxLSDlJmgphPCRK9kR_Q                                      | 
 | EN   | RSS feed   | Security | Youtube     | Hack The Box                  | https://www.youtube.com/feeds/videos.xml?channel_id=UCi67lRCd5qpaHwSXNJisuRQ                                      | 
