@@ -75,6 +75,7 @@ EN;RSS feed;ISSE;Tool;MISP;https://www.misp-project.org/feed.xml
 EN;RSS feed;ISSE;Vendor;Acunetix;https://www.acunetix.com/blog/feed
 EN;RSS feed;ISSE;Vendor;AlienVault;https://cybersecurity.att.com/site/blog-all-rss
 EN;RSS feed;ISSE;Vendor;Atos;https://atos.net/en/category/security-dive/feed?post_type=lp
+EN;RSS feed;ISSE;Vendor;Avast;https://engineering.avast.io/feed
 EN;RSS feed;ISSE;Vendor;AWS;https://aws.amazon.com/blogs/security/feed/
 EN;RSS feed;ISSE;Vendor;Bitdefender;https://www.bitdefender.com/blog/api/rss/labs/
 EN;RSS feed;ISSE;Vendor;Black Hills;https://www.blackhillsinfosec.com/feed/
@@ -125,6 +126,7 @@ EN;RSS feed;ISSE;Vendor;Palo Alto Unit42;https://unit42.paloaltonetworks.com/rss
 EN;RSS feed;ISSE;Vendor;PortSwigger;https://portswigger.net/blog/rss
 EN;RSS feed;ISSE;Vendor;PortSwigger Research;https://portswigger.net/research/rss
 EN;RSS feed;ISSE;Vendor;PortSwigger The Daily Swig;https://portswigger.net/daily-swig/rss
+EN;RSS feed;ISSE;Vendor;ProjectDiscovery;https://blog.projectdiscovery.io/feed
 EN;RSS feed;ISSE;Vendor;Proofpoint;https://www.proofpoint.com/us/rss.xml
 EN;RSS feed;ISSE;Vendor;Qualys;https://blog.qualys.com/feed
 EN;RSS feed;ISSE;Vendor;Quarkslab;https://blog.quarkslab.com/feeds/all.rss.xml
@@ -198,6 +200,7 @@ EN;RSS feed;SRE;Linux;Enable Sysadmin;https://www.redhat.com/sysadmin/rss.xml
 EN;RSS feed;SRE;Linux;Fedora Magazine;https://fedoramagazine.org/feed/
 EN;RSS feed;SRE;Linux;Linux Foundation;https://www.linuxfoundation.org/blog/rss.xml
 EN;RSS feed;SRE;Linux;Red Hat;https://www.redhat.com/en/rss/blog
+EN;RSS feed;SRE;;Akamai;https://feeds.feedburner.com/akamai/blog
 EN;RSS feed;SRE;;Ansible;https://www.ansible.com/blog/rss.xml
 EN;RSS feed;SRE;;Atlassian DevOps;https://www.atlassian.com/blog/devops/feed
 EN;RSS feed;SRE;;AWS DevOps;https://aws.amazon.com/blogs/devops/feed/
@@ -210,6 +213,7 @@ EN;RSS feed;SRE;;Google Cloud DevOps;https://cloudblog.withgoogle.com/products/d
 EN;RSS feed;SRE;;Grafana;https://grafana.com/blog/index.xml
 EN;RSS feed;SRE;;HashiCorp;https://www.hashicorp.com/blog/feed.xml
 EN;RSS feed;SRE;;Kubernetes;https://kubernetes.io/feed.xml
+EN;RSS feed;SRE;;ManoMano;https://medium.com/feed/manomano-tech
 EN;RSS feed;SRE;;PagerDuty;https://www.pagerduty.com/blog/feed
 EN;RSS feed;SRE;;Prometheus;https://prometheus.io/blog/feed.xml
 EN;RSS feed;SRE;;Puppet;https://www.puppet.com/blog/feed
@@ -220,20 +224,21 @@ EN;RSS feed;SWE;AI;AWS Machine Learning;https://aws.amazon.com/blogs/machine-lea
 EN;RSS feed;SWE;AI;Berkeley AI;https://bair.berkeley.edu/blog/feed
 EN;RSS feed;SWE;AI;CMU Machine Learning;https://blog.ml.cmu.edu/feed/
 EN;RSS feed;SWE;AI;DeepMind;https://deepmind.com/blog/rss.xml
+EN;RSS feed;SWE;AI;Elastic Search Labs;https://www.elastic.co/search-labs/rss/feed.xml
 EN;RSS feed;SWE;AI;Google AI;https://blog.google/technology/ai/rss/
-EN;RSS feed;SWE;AI;KDnuggets;https://www.kdnuggets.com/feed/
 EN;RSS feed;SWE;AI;Microsoft AI;https://news.microsoft.com/source/topics/ai/feed/
 EN;RSS feed;SWE;AI;MIT AI;https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml
 EN;RSS feed;SWE;AI;OpenAI;https://openai.com/blog/rss
 EN;RSS feed;SWE;AI;TensorFlow;https://blog.tensorflow.org/feeds/posts/default
-EN;RSS feed;SWE;AI;Towards Data Science;https://towardsdatascience.com/feed
 EN;RSS feed;SWE;Go;Go;https://go.dev/blog/feed.atom
 EN;RSS feed;SWE;Python;Jupyter;https://blog.jupyter.org/feed
 EN;RSS feed;SWE;Python;Python;https://blog.python.org/feeds/posts/default
 EN;RSS feed;SWE;Python;Real Python;https://realpython.com/atom.xml
 EN;RSS feed;SWE;Rust;Rust;https://blog.rust-lang.org/feed
 EN;RSS feed;SWE;YouTube;JupyterCon;https://www.youtube.com/feeds/videos.xml?channel_id=UCk4mxleDfaMqdm5kHISD3qA
+EN;RSS feed;SWE;;Adobe;https://blog.developer.adobe.com/feed
 EN;RSS feed;SWE;;Adyen;https://medium.com/feed/adyen
+EN;RSS feed;SWE;;Airbnb;https://medium.com/feed/airbnb-engineering
 EN;RSS feed;SWE;;Atlassian;https://blog.developer.atlassian.com/feed/
 EN;RSS feed;SWE;;BlackRock;https://medium.com/feed/blackrock-engineering
 EN;RSS feed;SWE;;Criteo;https://medium.com/feed/criteo-engineering
@@ -245,8 +250,10 @@ EN;RSS feed;SWE;;Lyft;https://eng.lyft.com/feed
 EN;RSS feed;SWE;;Meta;https://code.facebook.com/posts/rss/
 EN;RSS feed;SWE;;Mozilla;https://hacks.mozilla.org/feed/
 EN;RSS feed;SWE;;Netflix;https://netflixtechblog.com/feed
+EN;RSS feed;SWE;;NVIDIA;https://developer.nvidia.com/blog/feed
 EN;RSS feed;SWE;;Okta;https://developer.okta.com/feed.xml
 EN;RSS feed;SWE;;Opensource;https://opensource.com/rss.xml
+EN;RSS feed;SWE;;Postman;https://blog.postman.com/feed/
 EN;RSS feed;SWE;;Salesforce;https://developer.salesforce.com/blogs/feed
 EN;RSS feed;SWE;;SEI CMU;https://insights.sei.cmu.edu/blog/feeds/latest/rss/
 EN;RSS feed;SWE;;Semaphore CI;https://semaphoreci.com/feed
@@ -255,10 +262,12 @@ EN;RSS feed;SWE;;Slack;https://slack.engineering/feed
 EN;RSS feed;SWE;;SoundCloud;https://developers.soundcloud.com/blog/blog.rss
 EN;RSS feed;SWE;;Spotify;https://engineering.atspotify.com/feed
 EN;RSS feed;SWE;;Stripe;https://stripe.com/blog/feed.rss
+EN;RSS feed;SWE;;Yelp;https://engineeringblog.yelp.com/feed.xml
 EN;RSS feed;SWE;;Zalando;https://engineering.zalando.com/atom.xml
 FR;MOOC;SWE;Python;UCA Python;https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/
 FR;MOOC;SWE;Python;ULB Python;https://www.fun-mooc.fr/fr/cours/apprendre-a-coder-avec-python/
 FR;RSS feed;ISSE;CERT;CERT-FR;https://www.cert.ssi.gouv.fr/feed/
+FR;RSS feed;ISSE;CERT;Cert-IST;https://www.cert-ist.com/rssPublication
 FR;RSS feed;ISSE;CERT;Cyberveille Santé;https://www.cyberveille-sante.gouv.fr/cyberveille/rss.xml
 FR;RSS feed;ISSE;Institute;ANSSI;https://cyber.gouv.fr/actualites/feed
 FR;RSS feed;ISSE;Institute;CNIL;https://www.cnil.fr/fr/rss.xml
