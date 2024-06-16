@@ -75,90 +75,6 @@
 | EN   | RSS feed   | ISSE   | Institute | PCI SSC                       | https://blog.pcisecuritystandards.org/rss.xml                                                                     | 
 | EN   | RSS feed   | ISSE   | Institute | WUSTL                         | https://informationsecurity.wustl.edu/feed/                                                                       | 
 | EN   | RSS feed   | ISSE   | Tool      | MISP                          | https://www.misp-project.org/feed.xml                                                                             | 
-| EN   | RSS feed   | ISSE   | Vendor    | Acunetix                      | https://www.acunetix.com/blog/feed                                                                                | 
-| EN   | RSS feed   | ISSE   | Vendor    | AlienVault                    | https://cybersecurity.att.com/site/blog-all-rss                                                                   | 
-| EN   | RSS feed   | ISSE   | Vendor    | Atos                          | https://atos.net/en/category/security-dive/feed?post_type=lp                                                      | 
-| EN   | RSS feed   | ISSE   | Vendor    | Avast                         | https://engineering.avast.io/feed                                                                                 | 
-| EN   | RSS feed   | ISSE   | Vendor    | AWS                           | https://aws.amazon.com/blogs/security/feed/                                                                       | 
-| EN   | RSS feed   | ISSE   | Vendor    | Bitdefender                   | https://www.bitdefender.com/blog/api/rss/labs/                                                                    | 
-| EN   | RSS feed   | ISSE   | Vendor    | Black Hills                   | https://www.blackhillsinfosec.com/feed/                                                                           | 
-| EN   | RSS feed   | ISSE   | Vendor    | Check Point                   | https://research.checkpoint.com/feed                                                                              | 
-| EN   | RSS feed   | ISSE   | Vendor    | Cisco Talos                   | https://blog.talosintelligence.com/feed                                                                           | 
-| EN   | RSS feed   | ISSE   | Vendor    | CompTIA                       | https://www.comptia.org/rssfeeds/comptia-blog                                                                     | 
-| EN   | RSS feed   | ISSE   | Vendor    | Crowdstrike                   | https://www.crowdstrike.com/blog/feed                                                                             | 
-| EN   | RSS feed   | ISSE   | Vendor    | CyberArk                      | https://www.cyberark.com/feed/                                                                                    | 
-| EN   | RSS feed   | ISSE   | Vendor    | Cybereason                    | https://www.cybereason.com/blog/rss.xml                                                                           | 
-| EN   | RSS feed   | ISSE   | Vendor    | Darktrace                     | https://www.darktrace.com/blog/index.xml                                                                          | 
-| EN   | RSS feed   | ISSE   | Vendor    | Datadog                       | https://securitylabs.datadoghq.com/rss/feed.xml                                                                   | 
-| EN   | RSS feed   | ISSE   | Vendor    | DomainTools                   | https://www.domaintools.com/resources/blog/feed/                                                                  | 
-| EN   | RSS feed   | ISSE   | Vendor    | Dragos                        | https://www.dragos.com/feed                                                                                       | 
-| EN   | RSS feed   | ISSE   | Vendor    | Eset WeLiveSecurity           | https://www.welivesecurity.com/feed                                                                               | 
-| EN   | RSS feed   | ISSE   | Vendor    | Excellium                     | https://excellium-services.com/feed/                                                                              | 
-| EN   | RSS feed   | ISSE   | Vendor    | F5                            | https://www.f5.com/labs/rss-feeds/all.xml                                                                         | 
-| EN   | RSS feed   | ISSE   | Vendor    | Facebook                      | https://engineering.fb.com/category/security/feed/                                                                | 
-| EN   | RSS feed   | ISSE   | Vendor    | Forcepoint                    | https://www.forcepoint.com/rss.xml                                                                                | 
-| EN   | RSS feed   | ISSE   | Vendor    | Fortinet                      | https://feeds.fortinet.com/fortinet/blog/threat-research                                                          | 
-| EN   | RSS feed   | ISSE   | Vendor    | GitHub                        | https://securitylab.github.com/research/feed.xml                                                                  | 
-| EN   | RSS feed   | ISSE   | Vendor    | GitHub                        | https://github.blog/category/security/feed/                                                                       | 
-| EN   | RSS feed   | ISSE   | Vendor    | Google                        | https://security.googleblog.com/feeds/posts/default                                                               | 
-| EN   | RSS feed   | ISSE   | Vendor    | Google Cloud Security         | https://cloudblog.withgoogle.com/products/identity-security/rss                                                   | 
-| EN   | RSS feed   | ISSE   | Vendor    | Google Project Zero           | https://googleprojectzero.blogspot.com/feeds/posts/default                                                        | 
-| EN   | RSS feed   | ISSE   | Vendor    | Google Threat Analysis Group  | https://blog.google/threat-analysis-group/rss                                                                     | 
-| EN   | RSS feed   | ISSE   | Vendor    | Graylog                       | https://www.graylog.org/feed/                                                                                     | 
-| EN   | RSS feed   | ISSE   | Vendor    | GreyNoise                     | https://www.greynoise.io/blog/rss.xml                                                                             | 
-| EN   | RSS feed   | ISSE   | Vendor    | HackerOne                     | https://www.hackerone.com/blog.rss                                                                                | 
-| EN   | RSS feed   | ISSE   | Vendor    | Hex Rays                      | https://hex-rays.com/feed/                                                                                        | 
-| EN   | RSS feed   | ISSE   | Vendor    | IBM X-Force                   | https://securityintelligence.com/category/x-force/feed                                                            | 
-| EN   | RSS feed   | ISSE   | Vendor    | Infoblox                      | https://blogs.infoblox.com/category/cyber-threat-intelligence/feed/                                               | 
-| EN   | RSS feed   | ISSE   | Vendor    | Intigriti                     | https://blog.intigriti.com/feed/                                                                                  | 
-| EN   | RSS feed   | ISSE   | Vendor    | Juniper                       | https://blogs.juniper.net/security/feed                                                                           | 
-| EN   | RSS feed   | ISSE   | Vendor    | Kaspersky                     | https://www.kaspersky.com/blog/feed/                                                                              | 
-| EN   | RSS feed   | ISSE   | Vendor    | Kaspersky Securelist          | https://securelist.com/feed/                                                                                      | 
-| EN   | RSS feed   | ISSE   | Vendor    | Kudelski Security             | https://research.kudelskisecurity.com/feed/                                                                       | 
-| EN   | RSS feed   | ISSE   | Vendor    | Malwarebytes                  | https://blog.malwarebytes.com/feed/                                                                               | 
-| EN   | RSS feed   | ISSE   | Vendor    | Mandiant                      | https://www.mandiant.com/resources/blog/rss.xml                                                                   | 
-| EN   | RSS feed   | ISSE   | Vendor    | McAfee                        | https://www.mcafee.com/blogs/feed/                                                                                | 
-| EN   | RSS feed   | ISSE   | Vendor    | Microsoft                     | https://www.microsoft.com/security/blog/feed/                                                                     | 
-| EN   | RSS feed   | ISSE   | Vendor    | Microsoft Security Experts    | https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?&board=MicrosoftSecurityExperts | 
-| EN   | RSS feed   | ISSE   | Vendor    | Mozilla                       | https://blog.mozilla.org/security/feed/                                                                           | 
-| EN   | RSS feed   | ISSE   | Vendor    | NCC Group                     | https://research.nccgroup.com/feed/                                                                               | 
-| EN   | RSS feed   | ISSE   | Vendor    | NVISO                         | https://blog.nviso.eu/feed/                                                                                       | 
-| EN   | RSS feed   | ISSE   | Vendor    | Offensive Security            | https://www.offensive-security.com/feed/                                                                          | 
-| EN   | RSS feed   | ISSE   | Vendor    | Palo Alto                     | https://blog.paloaltonetworks.com/feed/                                                                           | 
-| EN   | RSS feed   | ISSE   | Vendor    | Palo Alto Unit42              | https://unit42.paloaltonetworks.com/rss                                                                           | 
-| EN   | RSS feed   | ISSE   | Vendor    | PortSwigger                   | https://portswigger.net/blog/rss                                                                                  | 
-| EN   | RSS feed   | ISSE   | Vendor    | PortSwigger Research          | https://portswigger.net/research/rss                                                                              | 
-| EN   | RSS feed   | ISSE   | Vendor    | PortSwigger The Daily Swig    | https://portswigger.net/daily-swig/rss                                                                            | 
-| EN   | RSS feed   | ISSE   | Vendor    | ProjectDiscovery              | https://blog.projectdiscovery.io/feed                                                                             | 
-| EN   | RSS feed   | ISSE   | Vendor    | Proofpoint                    | https://www.proofpoint.com/us/rss.xml                                                                             | 
-| EN   | RSS feed   | ISSE   | Vendor    | Qualys                        | https://blog.qualys.com/feed                                                                                      | 
-| EN   | RSS feed   | ISSE   | Vendor    | Quarkslab                     | https://blog.quarkslab.com/feeds/all.rss.xml                                                                      | 
-| EN   | RSS feed   | ISSE   | Vendor    | Rapid7                        | https://blog.rapid7.com/rss/                                                                                      | 
-| EN   | RSS feed   | ISSE   | Vendor    | Recorded Future               | https://www.recordedfuture.com/feed/                                                                              | 
-| EN   | RSS feed   | ISSE   | Vendor    | Red Canary                    | https://redcanary.com/feed                                                                                        | 
-| EN   | RSS feed   | ISSE   | Vendor    | Red Hat                       | https://www.redhat.com/en/rss/blog/channel/security                                                               | 
-| EN   | RSS feed   | ISSE   | Vendor    | SANS ISC                      | https://isc.sans.edu/rssfeed.xml                                                                                  | 
-| EN   | RSS feed   | ISSE   | Vendor    | Sekoia IO                     | https://www.sekoia.io/en/feed/                                                                                    | 
-| EN   | RSS feed   | ISSE   | Vendor    | Sensepost                     | https://sensepost.com/rss.xml                                                                                     | 
-| EN   | RSS feed   | ISSE   | Vendor    | SentinelOne                   | https://www.sentinelone.com/feed/                                                                                 | 
-| EN   | RSS feed   | ISSE   | Vendor    | Shodan                        | https://blog.shodan.io/rss/                                                                                       | 
-| EN   | RSS feed   | ISSE   | Vendor    | Snyk                          | https://snyk.io/blog/feed                                                                                         | 
-| EN   | RSS feed   | ISSE   | Vendor    | Sophos Naked Security         | https://nakedsecurity.sophos.com/feed                                                                             | 
-| EN   | RSS feed   | ISSE   | Vendor    | SpecterOps                    | https://posts.specterops.io/feed                                                                                  | 
-| EN   | RSS feed   | ISSE   | Vendor    | Splunk                        | https://www.splunk.com/blog/feed/                                                                                 | 
-| EN   | RSS feed   | ISSE   | Vendor    | Splunk Research               | https://research.splunk.com/feed.xml                                                                              | 
-| EN   | RSS feed   | ISSE   | Vendor    | Spotify                       | https://engineering.atspotify.com/category/security/feed                                                          | 
-| EN   | RSS feed   | ISSE   | Vendor    | Tenable                       | https://www.tenable.com/blog/feed                                                                                 | 
-| EN   | RSS feed   | ISSE   | Vendor    | The Record by Recorded Future | https://therecord.media/feed/                                                                                     | 
-| EN   | RSS feed   | ISSE   | Vendor    | ThreatQuotient                | https://www.threatq.com/feed/                                                                                     | 
-| EN   | RSS feed   | ISSE   | Vendor    | Trail of Bits                 | https://blog.trailofbits.com/feed/                                                                                | 
-| EN   | RSS feed   | ISSE   | Vendor    | Trend Micro                   | https://feeds.trendmicro.com/TrendMicroResearch                                                                   | 
-| EN   | RSS feed   | ISSE   | Vendor    | Varonis                       | https://www.varonis.com/blog/feed/                                                                                | 
-| EN   | RSS feed   | ISSE   | Vendor    | Virus Bulletin                | https://www.virusbulletin.com/rss                                                                                 | 
-| EN   | RSS feed   | ISSE   | Vendor    | VirusTotal                    | https://blog.virustotal.com/feeds/posts/default                                                                   | 
-| EN   | RSS feed   | ISSE   | Vendor    | VMware                        | https://blogs.vmware.com/security/feed                                                                            | 
-| EN   | RSS feed   | ISSE   | Vendor    | YesWeHack                     | https://blog.yeswehack.com/feed/                                                                                  | 
-| EN   | RSS feed   | ISSE   | Vendor    | Zero Day Initiative           | https://www.zerodayinitiative.com/blog/?format=rss                                                                | 
 | EN   | RSS feed   | ISSE   | Youtube   | 13Cubed                       | https://www.youtube.com/feeds/videos.xml?channel_id=UCy8ntxFEudOCRZYT1f7ya9Q                                      | 
 | EN   | RSS feed   | ISSE   | Youtube   | Black Hat                     | https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg                                      | 
 | EN   | RSS feed   | ISSE   | Youtube   | BotConf                       | https://www.youtube.com/feeds/videos.xml?channel_id=UCXpJo9O2-ynPeK5SOkMfakg                                      | 
@@ -193,11 +109,98 @@
 | EN   | RSS feed   | ISSE   | Youtube   | STOK                          | https://www.youtube.com/feeds/videos.xml?channel_id=UCQN2DsjnYH60SFBIA6IkNwg                                      | 
 | EN   | RSS feed   | ISSE   | Youtube   | The Cyber Mentor              | https://www.youtube.com/feeds/videos.xml?channel_id=UC0ArlFuFYMpEewyRBzdLHiw                                      | 
 | EN   | RSS feed   | ISSE   | Youtube   | Virus Bulletin                | https://www.youtube.com/feeds/videos.xml?channel_id=UCrWiEssvRxkygN3nYgNUP4g                                      | 
+| EN   | RSS feed   | ISSE   |           | Acunetix                      | https://www.acunetix.com/blog/feed                                                                                | 
+| EN   | RSS feed   | ISSE   |           | AlienVault                    | https://cybersecurity.att.com/site/blog-all-rss                                                                   | 
+| EN   | RSS feed   | ISSE   |           | Atos                          | https://atos.net/en/category/security-dive/feed?post_type=lp                                                      | 
+| EN   | RSS feed   | ISSE   |           | Avast                         | https://engineering.avast.io/feed                                                                                 | 
+| EN   | RSS feed   | ISSE   |           | AWS                           | https://aws.amazon.com/blogs/security/feed/                                                                       | 
+| EN   | RSS feed   | ISSE   |           | Bitdefender                   | https://www.bitdefender.com/blog/api/rss/labs/                                                                    | 
+| EN   | RSS feed   | ISSE   |           | Black Hills                   | https://www.blackhillsinfosec.com/feed/                                                                           | 
+| EN   | RSS feed   | ISSE   |           | Check Point                   | https://research.checkpoint.com/feed                                                                              | 
+| EN   | RSS feed   | ISSE   |           | Cisco Talos                   | https://blog.talosintelligence.com/feed                                                                           | 
+| EN   | RSS feed   | ISSE   |           | CompTIA                       | https://www.comptia.org/rssfeeds/comptia-blog                                                                     | 
+| EN   | RSS feed   | ISSE   |           | Crowdstrike                   | https://www.crowdstrike.com/blog/feed                                                                             | 
+| EN   | RSS feed   | ISSE   |           | CyberArk                      | https://www.cyberark.com/feed/                                                                                    | 
+| EN   | RSS feed   | ISSE   |           | Cybereason                    | https://www.cybereason.com/blog/rss.xml                                                                           | 
+| EN   | RSS feed   | ISSE   |           | Darktrace                     | https://www.darktrace.com/blog/index.xml                                                                          | 
+| EN   | RSS feed   | ISSE   |           | Datadog                       | https://securitylabs.datadoghq.com/rss/feed.xml                                                                   | 
+| EN   | RSS feed   | ISSE   |           | DomainTools                   | https://www.domaintools.com/resources/blog/feed/                                                                  | 
+| EN   | RSS feed   | ISSE   |           | Dragos                        | https://www.dragos.com/feed                                                                                       | 
+| EN   | RSS feed   | ISSE   |           | Eset WeLiveSecurity           | https://www.welivesecurity.com/feed                                                                               | 
+| EN   | RSS feed   | ISSE   |           | Excellium                     | https://excellium-services.com/feed/                                                                              | 
+| EN   | RSS feed   | ISSE   |           | F5                            | https://www.f5.com/labs/rss-feeds/all.xml                                                                         | 
+| EN   | RSS feed   | ISSE   |           | Facebook                      | https://engineering.fb.com/category/security/feed/                                                                | 
+| EN   | RSS feed   | ISSE   |           | Forcepoint                    | https://www.forcepoint.com/rss.xml                                                                                | 
+| EN   | RSS feed   | ISSE   |           | Fortinet                      | https://feeds.fortinet.com/fortinet/blog/threat-research                                                          | 
+| EN   | RSS feed   | ISSE   |           | GitHub                        | https://securitylab.github.com/research/feed.xml                                                                  | 
+| EN   | RSS feed   | ISSE   |           | GitHub                        | https://github.blog/category/security/feed/                                                                       | 
+| EN   | RSS feed   | ISSE   |           | Google                        | https://security.googleblog.com/feeds/posts/default                                                               | 
+| EN   | RSS feed   | ISSE   |           | Google Cloud Security         | https://cloudblog.withgoogle.com/products/identity-security/rss                                                   | 
+| EN   | RSS feed   | ISSE   |           | Google Project Zero           | https://googleprojectzero.blogspot.com/feeds/posts/default                                                        | 
+| EN   | RSS feed   | ISSE   |           | Google Threat Analysis Group  | https://blog.google/threat-analysis-group/rss                                                                     | 
+| EN   | RSS feed   | ISSE   |           | Graylog                       | https://www.graylog.org/feed/                                                                                     | 
+| EN   | RSS feed   | ISSE   |           | GreyNoise                     | https://www.greynoise.io/blog/rss.xml                                                                             | 
+| EN   | RSS feed   | ISSE   |           | HackerOne                     | https://www.hackerone.com/blog.rss                                                                                | 
+| EN   | RSS feed   | ISSE   |           | Hex Rays                      | https://hex-rays.com/feed/                                                                                        | 
+| EN   | RSS feed   | ISSE   |           | IBM X-Force                   | https://securityintelligence.com/category/x-force/feed                                                            | 
+| EN   | RSS feed   | ISSE   |           | Infoblox                      | https://blogs.infoblox.com/category/cyber-threat-intelligence/feed/                                               | 
+| EN   | RSS feed   | ISSE   |           | Intigriti                     | https://blog.intigriti.com/feed/                                                                                  | 
+| EN   | RSS feed   | ISSE   |           | Juniper                       | https://blogs.juniper.net/security/feed                                                                           | 
+| EN   | RSS feed   | ISSE   |           | Kaspersky                     | https://www.kaspersky.com/blog/feed/                                                                              | 
+| EN   | RSS feed   | ISSE   |           | Kaspersky Securelist          | https://securelist.com/feed/                                                                                      | 
+| EN   | RSS feed   | ISSE   |           | Kudelski Security             | https://research.kudelskisecurity.com/feed/                                                                       | 
+| EN   | RSS feed   | ISSE   |           | Malwarebytes                  | https://blog.malwarebytes.com/feed/                                                                               | 
+| EN   | RSS feed   | ISSE   |           | Mandiant                      | https://www.mandiant.com/resources/blog/rss.xml                                                                   | 
+| EN   | RSS feed   | ISSE   |           | McAfee                        | https://www.mcafee.com/blogs/feed/                                                                                | 
+| EN   | RSS feed   | ISSE   |           | Microsoft                     | https://www.microsoft.com/security/blog/feed/                                                                     | 
+| EN   | RSS feed   | ISSE   |           | Microsoft Security Experts    | https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?&board=MicrosoftSecurityExperts | 
+| EN   | RSS feed   | ISSE   |           | Mozilla                       | https://blog.mozilla.org/security/feed/                                                                           | 
+| EN   | RSS feed   | ISSE   |           | NCC Group                     | https://research.nccgroup.com/feed/                                                                               | 
+| EN   | RSS feed   | ISSE   |           | NVISO                         | https://blog.nviso.eu/feed/                                                                                       | 
+| EN   | RSS feed   | ISSE   |           | Offensive Security            | https://www.offensive-security.com/feed/                                                                          | 
+| EN   | RSS feed   | ISSE   |           | Palo Alto                     | https://blog.paloaltonetworks.com/feed/                                                                           | 
+| EN   | RSS feed   | ISSE   |           | Palo Alto Unit42              | https://unit42.paloaltonetworks.com/rss                                                                           | 
+| EN   | RSS feed   | ISSE   |           | PortSwigger                   | https://portswigger.net/blog/rss                                                                                  | 
+| EN   | RSS feed   | ISSE   |           | PortSwigger Research          | https://portswigger.net/research/rss                                                                              | 
+| EN   | RSS feed   | ISSE   |           | PortSwigger The Daily Swig    | https://portswigger.net/daily-swig/rss                                                                            | 
+| EN   | RSS feed   | ISSE   |           | ProjectDiscovery              | https://blog.projectdiscovery.io/feed                                                                             | 
+| EN   | RSS feed   | ISSE   |           | Proofpoint                    | https://www.proofpoint.com/us/rss.xml                                                                             | 
+| EN   | RSS feed   | ISSE   |           | Qualys                        | https://blog.qualys.com/feed                                                                                      | 
+| EN   | RSS feed   | ISSE   |           | Quarkslab                     | https://blog.quarkslab.com/feeds/all.rss.xml                                                                      | 
+| EN   | RSS feed   | ISSE   |           | Rapid7                        | https://blog.rapid7.com/rss/                                                                                      | 
+| EN   | RSS feed   | ISSE   |           | Recorded Future               | https://www.recordedfuture.com/feed/                                                                              | 
+| EN   | RSS feed   | ISSE   |           | Red Canary                    | https://redcanary.com/feed                                                                                        | 
+| EN   | RSS feed   | ISSE   |           | Red Hat                       | https://www.redhat.com/en/rss/blog/channel/security                                                               | 
+| EN   | RSS feed   | ISSE   |           | SANS ISC                      | https://isc.sans.edu/rssfeed.xml                                                                                  | 
+| EN   | RSS feed   | ISSE   |           | Sekoia IO                     | https://www.sekoia.io/en/feed/                                                                                    | 
+| EN   | RSS feed   | ISSE   |           | Sensepost                     | https://sensepost.com/rss.xml                                                                                     | 
+| EN   | RSS feed   | ISSE   |           | SentinelOne                   | https://www.sentinelone.com/feed/                                                                                 | 
+| EN   | RSS feed   | ISSE   |           | Shodan                        | https://blog.shodan.io/rss/                                                                                       | 
+| EN   | RSS feed   | ISSE   |           | Snyk                          | https://snyk.io/blog/feed                                                                                         | 
+| EN   | RSS feed   | ISSE   |           | Sophos Naked Security         | https://nakedsecurity.sophos.com/feed                                                                             | 
+| EN   | RSS feed   | ISSE   |           | SpecterOps                    | https://posts.specterops.io/feed                                                                                  | 
+| EN   | RSS feed   | ISSE   |           | Splunk                        | https://www.splunk.com/blog/feed/                                                                                 | 
+| EN   | RSS feed   | ISSE   |           | Splunk Research               | https://research.splunk.com/feed.xml                                                                              | 
+| EN   | RSS feed   | ISSE   |           | Spotify                       | https://engineering.atspotify.com/category/security/feed                                                          | 
+| EN   | RSS feed   | ISSE   |           | Tenable                       | https://www.tenable.com/blog/feed                                                                                 | 
+| EN   | RSS feed   | ISSE   |           | The Record by Recorded Future | https://therecord.media/feed/                                                                                     | 
+| EN   | RSS feed   | ISSE   |           | ThreatQuotient                | https://www.threatq.com/feed/                                                                                     | 
+| EN   | RSS feed   | ISSE   |           | Trail of Bits                 | https://blog.trailofbits.com/feed/                                                                                | 
+| EN   | RSS feed   | ISSE   |           | Trend Micro                   | https://feeds.trendmicro.com/TrendMicroResearch                                                                   | 
+| EN   | RSS feed   | ISSE   |           | Varonis                       | https://www.varonis.com/blog/feed/                                                                                | 
+| EN   | RSS feed   | ISSE   |           | Virus Bulletin                | https://www.virusbulletin.com/rss                                                                                 | 
+| EN   | RSS feed   | ISSE   |           | VirusTotal                    | https://blog.virustotal.com/feeds/posts/default                                                                   | 
+| EN   | RSS feed   | ISSE   |           | VMware                        | https://blogs.vmware.com/security/feed                                                                            | 
+| EN   | RSS feed   | ISSE   |           | YesWeHack                     | https://blog.yeswehack.com/feed/                                                                                  | 
+| EN   | RSS feed   | ISSE   |           | Zero Day Initiative           | https://www.zerodayinitiative.com/blog/?format=rss                                                                | 
 | EN   | RSS feed   | SRE    | Cloud     | AWS Architecture              | https://aws.amazon.com/blogs/architecture/feed/                                                                   | 
 | EN   | RSS feed   | SRE    | Cloud     | CNCF                          | https://www.cncf.io/blog/feed                                                                                     | 
+| EN   | RSS feed   | SRE    | Cloud     | Google Cloud Community        | https://medium.com/feed/google-cloud                                                                              | 
 | EN   | RSS feed   | SRE    | Cloud     | Google Cloud Networking       | https://cloudblog.withgoogle.com/products/networking/rss                                                          | 
+| EN   | RSS feed   | SRE    | Cloud     | Microsoft Azure               | https://azure.microsoft.com/en-us/blog/feed                                                                       | 
 | EN   | RSS feed   | SRE    | Cloud     | OVH                           | https://blog.ovhcloud.com/feed/                                                                                   | 
 | EN   | RSS feed   | SRE    | Cloud     | Red Hat Cloud                 | https://cloud.redhat.com/blog/rss.xml                                                                             | 
+| EN   | RSS feed   | SRE    | Cloud     | RIPE Labs                     | https://labs.ripe.net/feed.xml                                                                                    | 
 | EN   | RSS feed   | SRE    | Linux     | Distrowatch                   | https://distrowatch.com/news/dw.xml                                                                               | 
 | EN   | RSS feed   | SRE    | Linux     | Enable Sysadmin               | https://www.redhat.com/sysadmin/rss.xml                                                                           | 
 | EN   | RSS feed   | SRE    | Linux     | Fedora Magazine               | https://fedoramagazine.org/feed/                                                                                  | 
@@ -239,6 +242,7 @@
 | EN   | RSS feed   | SWE    | Python    | Real Python                   | https://realpython.com/atom.xml                                                                                   | 
 | EN   | RSS feed   | SWE    | Rust      | Rust                          | https://blog.rust-lang.org/feed                                                                                   | 
 | EN   | RSS feed   | SWE    | YouTube   | JupyterCon                    | https://www.youtube.com/feeds/videos.xml?channel_id=UCk4mxleDfaMqdm5kHISD3qA                                      | 
+| EN   | RSS feed   | SWE    |           | ACM                           | https://cacm.acm.org/magazine.rss                                                                                 | 
 | EN   | RSS feed   | SWE    |           | Adobe                         | https://blog.developer.adobe.com/feed                                                                             | 
 | EN   | RSS feed   | SWE    |           | Adyen                         | https://medium.com/feed/adyen                                                                                     | 
 | EN   | RSS feed   | SWE    |           | Airbnb                        | https://medium.com/feed/airbnb-engineering                                                                        | 
@@ -246,10 +250,12 @@
 | EN   | RSS feed   | SWE    |           | BlackRock                     | https://medium.com/feed/blackrock-engineering                                                                     | 
 | EN   | RSS feed   | SWE    |           | Criteo                        | https://medium.com/feed/criteo-engineering                                                                        | 
 | EN   | RSS feed   | SWE    |           | Deezer                        | https://deezer.io/feed                                                                                            | 
+| EN   | RSS feed   | SWE    |           | Figma                         | https://www.figma.com/blog/feed/atom.xml                                                                          | 
 | EN   | RSS feed   | SWE    |           | Google Developer Experts      | https://medium.com/feed/google-developer-experts                                                                  | 
 | EN   | RSS feed   | SWE    |           | LeBonCoin                     | https://medium.com/feed/leboncoin-engineering-blog                                                                | 
 | EN   | RSS feed   | SWE    |           | LinkedIn                      | https://engineering.linkedin.com/blog.rss.html                                                                    | 
 | EN   | RSS feed   | SWE    |           | Lyft                          | https://eng.lyft.com/feed                                                                                         | 
+| EN   | RSS feed   | SWE    |           | McDonald                      | https://medium.com/feed/mcdonalds-technical-blog                                                                  | 
 | EN   | RSS feed   | SWE    |           | Meta                          | https://code.facebook.com/posts/rss/                                                                              | 
 | EN   | RSS feed   | SWE    |           | Mozilla                       | https://hacks.mozilla.org/feed/                                                                                   | 
 | EN   | RSS feed   | SWE    |           | Netflix                       | https://netflixtechblog.com/feed                                                                                  | 
@@ -274,11 +280,6 @@
 | FR   | RSS feed   | ISSE   | CERT      | Cyberveille Santé             | https://www.cyberveille-sante.gouv.fr/cyberveille/rss.xml                                                         | 
 | FR   | RSS feed   | ISSE   | Institute | ANSSI                         | https://cyber.gouv.fr/actualites/feed                                                                             | 
 | FR   | RSS feed   | ISSE   | Institute | CNIL                          | https://www.cnil.fr/fr/rss.xml                                                                                    | 
-| FR   | RSS feed   | ISSE   | Vendor    | Acceis                        | https://www.acceis.fr/feed/                                                                                       | 
-| FR   | RSS feed   | ISSE   | Vendor    | Intrinsec                     | https://www.intrinsec.com/blog/feed                                                                               | 
-| FR   | RSS feed   | ISSE   | Vendor    | Stormshield                   | https://www.stormshield.com/fr/feed/                                                                              | 
-| FR   | RSS feed   | ISSE   | Vendor    | Synetis                       | https://www.synetis.com/feed/                                                                                     | 
-| FR   | RSS feed   | ISSE   | Vendor    | XMCO                          | https://www.xmco.fr/feed/                                                                                         | 
 | FR   | RSS feed   | ISSE   | Youtube   | AEGE                          | https://www.youtube.com/feeds/videos.xml?channel_id=UCbIfUl3QPj35cT7za0iFDxQ                                      | 
 | FR   | RSS feed   | ISSE   | Youtube   | Hack-It-N                     | https://www.youtube.com/feeds/videos.xml?channel_id=UC97prj7oI1Lhf9j1NYLcoKA                                      | 
 | FR   | RSS feed   | ISSE   | Youtube   | Hack2G2                       | https://www.youtube.com/feeds/videos.xml?channel_id=UCqJt_ViIsIBNk7OLhEm_bZA                                      | 
@@ -286,3 +287,8 @@
 | FR   | RSS feed   | ISSE   | Youtube   | Les Assises                   | https://www.youtube.com/feeds/videos.xml?channel_id=UCpAeamS7J6gtSsrTOVO4nqQ                                      | 
 | FR   | RSS feed   | ISSE   | Youtube   | NoLimitSecu                   | https://www.youtube.com/feeds/videos.xml?channel_id=UCmDIvvdp_o2jAvMLyi6kgrg                                      | 
 | FR   | RSS feed   | ISSE   | Youtube   | THCon                         | https://www.youtube.com/feeds/videos.xml?channel_id=UCynu1UtpaZCpDV2IVenAdkg                                      | 
+| FR   | RSS feed   | ISSE   |           | Acceis                        | https://www.acceis.fr/feed/                                                                                       | 
+| FR   | RSS feed   | ISSE   |           | Intrinsec                     | https://www.intrinsec.com/blog/feed                                                                               | 
+| FR   | RSS feed   | ISSE   |           | Stormshield                   | https://www.stormshield.com/fr/feed/                                                                              | 
+| FR   | RSS feed   | ISSE   |           | Synetis                       | https://www.synetis.com/feed/                                                                                     | 
+| FR   | RSS feed   | ISSE   |           | XMCO                          | https://www.xmco.fr/feed/                                                                                         | 
